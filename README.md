@@ -13,9 +13,17 @@ ndlib
 ```
 
 ## Running
-In order to execute the program you have to type
-```python
-python3 -m src.test.main
+In order to execute the program you have to type:
+```bash
+1. From terminal:
+    - select the correct paths in main, identification and tracing (path_terminal)
+    - type: python3 -m src.test.main
+```
+
+```bash
+1. From Ide:
+    - select the correct paths in main, identification and tracing (path_pycharm)
+    - run from main
 ```
 
 ## Contributing

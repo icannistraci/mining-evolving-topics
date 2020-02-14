@@ -13,14 +13,15 @@ def topic_identification(df_keywords, df_authorship):
     start_time = time.time()
     print(f'\n --- START Identification ---')
 
-    path = '../../Data/'
+    path_pycharm = '../../Data/'
+    path_terminal = 'Data/'
     years = range(2000, 2019)
     k_vals = [5, 10, 20, 100]
 
     topic_years = {}
     merged_topic_years = {}
 
-    filename_pr = path + 'output_files/identification/pagerank.csv'
+    filename_pr = path_terminal + 'output_files/identification/pagerank.csv'
     with open(filename_pr, mode='w') as csv_file:
         fieldnames = ['Year', 'Keyword', 'Score']
         writer = csv.DictWriter(csv_file, fieldnames=fieldnames)
@@ -211,7 +212,7 @@ def topic_identification(df_keywords, df_authorship):
             topic_years.update({year: topk_merged_topic})
 
     # write final json topic file
-    final_filename = path + 'output_files/identification/topics.json'
+    final_filename = path_terminal + 'output_files/identification/topics.json'
     with open(final_filename, 'w', encoding='utf-8', newline='') as f:
         json.dump(topic_years, f, ensure_ascii=False, indent=2)
         f.write('\n')

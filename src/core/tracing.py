@@ -11,15 +11,17 @@ def topic_tracing():
 
     years = range(2000, 2018)
     k_vals = [5, 10, 20, 100]
-    path = '../../Data/'
+
+    path_pycharm = '../../Data/'
+    path_terminal = 'Data/'
 
     # load results from topic identification
-    filename = path + 'output_files/identification/topics.json'
+    filename = path_terminal + 'output_files/identification/topics.json'
     with open(filename) as json_file:
         topics = json.load(json_file)
 
     # create tracing file
-    filename_tracing = path + 'output_files/tracing/timeline.txt'
+    filename_tracing = path_terminal + 'output_files/tracing/timeline.txt'
     with open(filename_tracing, 'w') as text_file:
 
         for year in years:
