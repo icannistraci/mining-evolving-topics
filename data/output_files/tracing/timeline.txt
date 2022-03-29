@@ -9,19 +9,13 @@
 
  ---------- YEAR 2001 ---------- 
 
- K = 20
-['2001', ['filtering algorithms', 'particle filters', 'signal processing algorithms'], '-> 2002', ['filtering algorithms'], '-> 2003', ['filtering algorithms'], '-> 2004', ['filtering algorithms'], '-> 2005', ['filtering algorithms'], '-> 2006', ['filtering algorithms'], '-> 2007', ['filtering algorithms'], '-> 2008', ['filtering algorithms'], '-> 2009', ['filtering algorithms'], '-> 2010', ['filtering algorithms'], '-> 2011', ['filtering algorithms'], '-> 2012', ['filtering algorithms'], '-> 2013', ['filtering algorithms'], '-> 2014', ['filtering algorithms'], '-> 2015', ['filtering algorithms'], '-> 2016', ['filtering algorithms'], '-> 2017', ['filtering algorithms'], '-> 2018', ['filtering algorithms']]
-
- K = 100
-['2001', ['filtering algorithms'], '-> 2002', ['filtering algorithms'], '-> 2003', ['filtering algorithms'], '-> 2004', ['filtering algorithms'], '-> 2005', ['filtering algorithms'], '-> 2006', ['filtering algorithms'], '-> 2007', ['filtering algorithms'], '-> 2008', ['filtering algorithms'], '-> 2009', ['filtering algorithms'], '-> 2010', ['filtering algorithms'], '-> 2011', ['filtering algorithms'], '-> 2012', ['filtering algorithms'], '-> 2013', ['filtering algorithms'], '-> 2014', ['filtering algorithms'], '-> 2015', ['filtering algorithms'], '-> 2016', ['filtering algorithms'], '-> 2017', ['filtering algorithms'], '-> 2018', ['filtering algorithms']]
-
  K = 100
 ['2001', ['bayesian methods'], '-> 2002', ['bayesian methods', 'monte carlo methods', 'signal processing', 'speech processing'], '-> 2003', ['bayesian methods', 'monte carlo methods', 'signal processing', 'speech processing'], '-> 2004', ['bayesian methods', 'monte carlo methods', 'signal processing', 'speech processing'], '-> 2005', ['bayesian methods', 'monte carlo methods', 'signal processing', 'speech processing'], '-> 2006', ['bayesian methods', 'monte carlo methods', 'signal processing', 'speech processing'], '-> 2007', ['bayesian methods', 'monte carlo methods', 'signal processing', 'speech processing'], '-> 2008', ['bayesian methods', 'monte carlo methods', 'signal processing', 'speech processing'], '-> 2009', ['bayesian methods', 'monte carlo methods', 'signal processing', 'speech processing'], '-> 2010', ['bayesian methods', 'monte carlo methods', 'signal processing', 'speech processing'], '-> 2011', ['bayesian methods', 'monte carlo methods', 'signal processing', 'speech processing'], '-> 2012', ['bayesian methods', 'monte carlo methods', 'signal processing', 'speech processing'], '-> 2013', ['bayesian methods', 'monte carlo methods', 'signal processing', 'speech processing'], '-> 2014', ['bayesian methods', 'monte carlo methods', 'signal processing', 'speech processing'], '-> 2015', ['bayesian methods', 'monte carlo methods', 'signal processing', 'speech processing'], '-> 2016', ['bayesian methods', 'monte carlo methods', 'signal processing', 'speech processing'], '-> 2017', ['bayesian methods', 'monte carlo methods', 'signal processing', 'speech processing'], '-> 2018', ['bayesian methods', 'monte carlo methods', 'signal processing', 'speech processing']]
-Union of the topics of the chain into the Macro topic: {'bayesian methods', 'monte carlo methods', 'speech processing', 'signal processing'}
+Union of the topics of the chain into the Macro topic: {'signal processing', 'speech processing', 'monte carlo methods', 'bayesian methods'}
 
  K = 100
 ['2001', ['monte carlo methods'], '-> 2002', ['bayesian methods', 'monte carlo methods', 'signal processing', 'speech processing'], '-> 2003', ['bayesian methods', 'monte carlo methods', 'signal processing', 'speech processing'], '-> 2004', ['bayesian methods', 'monte carlo methods', 'signal processing', 'speech processing'], '-> 2005', ['bayesian methods', 'monte carlo methods', 'signal processing', 'speech processing'], '-> 2006', ['bayesian methods', 'monte carlo methods', 'signal processing', 'speech processing'], '-> 2007', ['bayesian methods', 'monte carlo methods', 'signal processing', 'speech processing'], '-> 2008', ['bayesian methods', 'monte carlo methods', 'signal processing', 'speech processing'], '-> 2009', ['bayesian methods', 'monte carlo methods', 'signal processing', 'speech processing'], '-> 2010', ['bayesian methods', 'monte carlo methods', 'signal processing', 'speech processing'], '-> 2011', ['bayesian methods', 'monte carlo methods', 'signal processing', 'speech processing'], '-> 2012', ['bayesian methods', 'monte carlo methods', 'signal processing', 'speech processing'], '-> 2013', ['bayesian methods', 'monte carlo methods', 'signal processing', 'speech processing'], '-> 2014', ['bayesian methods', 'monte carlo methods', 'signal processing', 'speech processing'], '-> 2015', ['bayesian methods', 'monte carlo methods', 'signal processing', 'speech processing'], '-> 2016', ['bayesian methods', 'monte carlo methods', 'signal processing', 'speech processing'], '-> 2017', ['bayesian methods', 'monte carlo methods', 'signal processing', 'speech processing'], '-> 2018', ['bayesian methods', 'monte carlo methods', 'signal processing', 'speech processing']]
-Union of the topics of the chain into the Macro topic: {'bayesian methods', 'monte carlo methods', 'speech processing', 'signal processing'}
+Union of the topics of the chain into the Macro topic: {'signal processing', 'speech processing', 'monte carlo methods', 'bayesian methods'}
 
  ---------- YEAR 2002 ---------- 
 
@@ -49,7 +43,7 @@ Union of the topics of the chain into the Macro topic: {'bayesian methods', 'mon
  ---------- YEAR 2003 ---------- 
 
  K = 5
-['2003', ['algorithm', 'feature vector'], '-> 2004', ['algorithm'], '-> 2005', ['algorithm'], '-> 2006', ['algorithm'], '-> 2007', ['algorithm'], '-> 2008', ['algorithm'], '-> 2009', ['algorithm'], '-> 2010', ['algorithm'], '-> 2011', ['algorithm'], '-> 2012', ['algorithm'], '-> 2013', ['algorithm'], '-> 2014', ['algorithm'], '-> 2015', ['algorithm'], '-> 2016', ['algorithm'], '-> 2017', ['algorithm'], '-> 2018', ['algorithm']]
+['2003', ['algorithm', 'firstorder predicate', 'heuristic'], '-> 2004', ['algorithm'], '-> 2005', ['algorithm'], '-> 2006', ['algorithm'], '-> 2007', ['algorithm'], '-> 2008', ['algorithm'], '-> 2009', ['algorithm'], '-> 2010', ['algorithm'], '-> 2011', ['algorithm'], '-> 2012', ['algorithm'], '-> 2013', ['algorithm'], '-> 2014', ['algorithm'], '-> 2015', ['algorithm'], '-> 2016', ['algorithm'], '-> 2017', ['algorithm'], '-> 2018', ['algorithm']]
 
  K = 10
 ['2003', ['algorithm'], '-> 2004', ['algorithm'], '-> 2005', ['algorithm'], '-> 2006', ['algorithm'], '-> 2007', ['algorithm'], '-> 2008', ['algorithm'], '-> 2009', ['algorithm'], '-> 2010', ['algorithm'], '-> 2011', ['algorithm'], '-> 2012', ['algorithm'], '-> 2013', ['algorithm'], '-> 2014', ['algorithm'], '-> 2015', ['algorithm'], '-> 2016', ['algorithm'], '-> 2017', ['algorithm'], '-> 2018', ['algorithm']]
@@ -58,23 +52,19 @@ Union of the topics of the chain into the Macro topic: {'bayesian methods', 'mon
 ['2003', ['real life'], '-> 2004', ['real life'], '-> 2005', ['real life'], '-> 2006', ['real life'], '-> 2007', ['real life'], '-> 2008', ['real life'], '-> 2009', ['real life'], '-> 2010', ['real life'], '-> 2011', ['real life'], '-> 2012', ['real life'], '-> 2013', ['real life'], '-> 2014', ['real life'], '-> 2015', ['real life'], '-> 2016', ['real life'], '-> 2017', ['real life'], '-> 2018', ['real life']]
 
  K = 20
-['2003', ['algorithm'], '-> 2004', ['algorithm'], '-> 2005', ['algorithm'], '-> 2006', ['algorithm'], '-> 2007', ['algorithm'], '-> 2008', ['algorithm'], '-> 2009', ['algorithm'], '-> 2010', ['algorithm'], '-> 2011', ['algorithm'], '-> 2012', ['algorithm'], '-> 2013', ['algorithm'], '-> 2014', ['algorithm'], '-> 2015', ['algorithm'], '-> 2016', ['algorithm'], '-> 2017', ['algorithm'], '-> 2018', ['algorithm']]
-
- K = 20
 ['2003', ['real life'], '-> 2004', ['real life'], '-> 2005', ['real life'], '-> 2006', ['real life'], '-> 2007', ['real life'], '-> 2008', ['real life'], '-> 2009', ['real life'], '-> 2010', ['real life'], '-> 2011', ['real life'], '-> 2012', ['real life'], '-> 2013', ['real life'], '-> 2014', ['real life'], '-> 2015', ['real life'], '-> 2016', ['real life'], '-> 2017', ['real life'], '-> 2018', ['real life']]
 
- K = 100
-['2003', ['algorithm'], '-> 2004', ['algorithm'], '-> 2005', ['algorithm'], '-> 2006', ['algorithm'], '-> 2007', ['algorithm'], '-> 2008', ['algorithm'], '-> 2009', ['algorithm'], '-> 2010', ['algorithm'], '-> 2011', ['algorithm'], '-> 2012', ['algorithm'], '-> 2013', ['algorithm'], '-> 2014', ['algorithm'], '-> 2015', ['algorithm'], '-> 2016', ['algorithm'], '-> 2017', ['algorithm'], '-> 2018', ['algorithm']]
+ K = 20
+['2003', ['algorithm', 'really simple discovery'], '-> 2004', ['algorithm'], '-> 2005', ['algorithm'], '-> 2006', ['algorithm'], '-> 2007', ['algorithm'], '-> 2008', ['algorithm'], '-> 2009', ['algorithm'], '-> 2010', ['algorithm'], '-> 2011', ['algorithm'], '-> 2012', ['algorithm'], '-> 2013', ['algorithm'], '-> 2014', ['algorithm'], '-> 2015', ['algorithm'], '-> 2016', ['algorithm'], '-> 2017', ['algorithm'], '-> 2018', ['algorithm']]
+
+ K = 20
+['2003', ['algorithm', 'feature vector', 'really simple discovery'], '-> 2004', ['algorithm'], '-> 2005', ['algorithm'], '-> 2006', ['algorithm'], '-> 2007', ['algorithm'], '-> 2008', ['algorithm'], '-> 2009', ['algorithm'], '-> 2010', ['algorithm'], '-> 2011', ['algorithm'], '-> 2012', ['algorithm'], '-> 2013', ['algorithm'], '-> 2014', ['algorithm'], '-> 2015', ['algorithm'], '-> 2016', ['algorithm'], '-> 2017', ['algorithm'], '-> 2018', ['algorithm']]
 
  K = 100
-['2003', ['computation'], '-> 2004', ['computation', 'pseudorandom number generator'], '-> 2005', ['computation', 'pseudorandom number generator'], '-> 2006', ['computation', 'pseudorandom number generator'], '-> 2007', ['computation', 'pseudorandom number generator'], '-> 2008', ['computation', 'pseudorandom number generator'], '-> 2009', ['computation', 'pseudorandom number generator'], '-> 2010', ['computation', 'pseudorandom number generator'], '-> 2011', ['computation', 'pseudorandom number generator'], '-> 2012', ['computation', 'pseudorandom number generator'], '-> 2013', ['computation', 'pseudorandom number generator'], '-> 2014', ['computation', 'pseudorandom number generator'], '-> 2015', ['computation', 'pseudorandom number generator'], '-> 2016', ['computation', 'pseudorandom number generator'], '-> 2017', ['computation', 'pseudorandom number generator'], '-> 2018', ['computation', 'pseudorandom number generator']]
-Union of the topics of the chain into the Macro topic: {'pseudorandom number generator', 'computation'}
+['2003', ['algorithm'], '-> 2004', ['algorithm'], '-> 2005', ['algorithm'], '-> 2006', ['algorithm'], '-> 2007', ['algorithm'], '-> 2008', ['algorithm'], '-> 2009', ['algorithm'], '-> 2010', ['algorithm'], '-> 2011', ['algorithm'], '-> 2012', ['algorithm'], '-> 2013', ['algorithm'], '-> 2014', ['algorithm'], '-> 2015', ['algorithm'], '-> 2016', ['algorithm'], '-> 2017', ['algorithm'], '-> 2018', ['algorithm']]
 
  K = 100
 ['2003', ['heuristic'], '-> 2004', ['heuristic'], '-> 2005', ['heuristic'], '-> 2006', ['heuristic'], '-> 2007', ['heuristic'], '-> 2008', ['heuristic'], '-> 2009', ['heuristic'], '-> 2010', ['heuristic'], '-> 2011', ['heuristic'], '-> 2012', ['heuristic'], '-> 2013', ['heuristic'], '-> 2014', ['heuristic'], '-> 2015', ['heuristic'], '-> 2016', ['heuristic'], '-> 2017', ['heuristic'], '-> 2018', ['heuristic']]
-
- K = 100
-['2003', ['real life'], '-> 2004', ['real life'], '-> 2005', ['real life'], '-> 2006', ['real life'], '-> 2007', ['real life'], '-> 2008', ['real life'], '-> 2009', ['real life'], '-> 2010', ['real life'], '-> 2011', ['real life'], '-> 2012', ['real life'], '-> 2013', ['real life'], '-> 2014', ['real life'], '-> 2015', ['real life'], '-> 2016', ['real life'], '-> 2017', ['real life'], '-> 2018', ['real life']]
 
  K = 100
 ['2003', ['monte carlo method'], '-> 2004', ['monte carlo method'], '-> 2005', ['monte carlo method'], '-> 2006', ['monte carlo method'], '-> 2007', ['monte carlo method'], '-> 2008', ['monte carlo method'], '-> 2009', ['monte carlo method'], '-> 2010', ['monte carlo method'], '-> 2011', ['monte carlo method'], '-> 2012', ['monte carlo method'], '-> 2013', ['monte carlo method'], '-> 2014', ['monte carlo method'], '-> 2015', ['monte carlo method'], '-> 2016', ['monte carlo method'], '-> 2017', ['monte carlo method'], '-> 2018', ['monte carlo method']]
@@ -85,74 +75,67 @@ Union of the topics of the chain into the Macro topic: {'pseudorandom number gen
  K = 100
 ['2003', ['random number generation'], '-> 2004', ['random number generation'], '-> 2005', ['random number generation'], '-> 2006', ['random number generation'], '-> 2007', ['random number generation'], '-> 2008', ['random number generation'], '-> 2009', ['random number generation'], '-> 2010', ['random number generation'], '-> 2011', ['random number generation'], '-> 2012', ['random number generation'], '-> 2013', ['random number generation'], '-> 2014', ['random number generation'], '-> 2015', ['random number generation'], '-> 2016', ['random number generation'], '-> 2017', ['random number generation'], '-> 2018', ['random number generation']]
 
+ K = 100
+['2003', ['computation', 'monte carlo method', 'scheduling computing'], '-> 2004', ['monte carlo method'], '-> 2005', ['monte carlo method'], '-> 2006', ['monte carlo method'], '-> 2007', ['monte carlo method'], '-> 2008', ['monte carlo method'], '-> 2009', ['monte carlo method'], '-> 2010', ['monte carlo method'], '-> 2011', ['monte carlo method'], '-> 2012', ['monte carlo method'], '-> 2013', ['monte carlo method'], '-> 2014', ['monte carlo method'], '-> 2015', ['monte carlo method'], '-> 2016', ['monte carlo method'], '-> 2017', ['monte carlo method'], '-> 2018', ['monte carlo method']]
+
+ K = 100
+['2003', ['firstorder predicate', 'real life'], '-> 2004', ['real life'], '-> 2005', ['real life'], '-> 2006', ['real life'], '-> 2007', ['real life'], '-> 2008', ['real life'], '-> 2009', ['real life'], '-> 2010', ['real life'], '-> 2011', ['real life'], '-> 2012', ['real life'], '-> 2013', ['real life'], '-> 2014', ['real life'], '-> 2015', ['real life'], '-> 2016', ['real life'], '-> 2017', ['real life'], '-> 2018', ['real life']]
+
  ---------- YEAR 2004 ---------- 
 
  K = 20
 ['2004', ['mathematical optimization'], '-> 2005', ['benchmark computing', 'mathematical optimization', 'particle swarm optimization', 'swarm robotics'], '-> 2006', ['benchmark computing', 'mathematical optimization', 'particle swarm optimization', 'swarm robotics'], '-> 2007', ['benchmark computing', 'mathematical optimization', 'particle swarm optimization', 'swarm robotics'], '-> 2008', ['benchmark computing', 'mathematical optimization', 'particle swarm optimization', 'swarm robotics'], '-> 2009', ['benchmark computing', 'mathematical optimization', 'particle swarm optimization', 'swarm robotics'], '-> 2010', ['benchmark computing', 'mathematical optimization', 'particle swarm optimization', 'swarm robotics'], '-> 2011', ['benchmark computing', 'mathematical optimization', 'particle swarm optimization', 'swarm robotics'], '-> 2012', ['benchmark computing', 'mathematical optimization', 'particle swarm optimization', 'swarm robotics'], '-> 2013', ['benchmark computing', 'mathematical optimization', 'particle swarm optimization', 'swarm robotics'], '-> 2014', ['benchmark computing', 'mathematical optimization', 'particle swarm optimization', 'swarm robotics'], '-> 2015', ['benchmark computing', 'mathematical optimization', 'particle swarm optimization', 'swarm robotics'], '-> 2016', ['benchmark computing', 'mathematical optimization', 'particle swarm optimization', 'swarm robotics'], '-> 2017', ['benchmark computing', 'mathematical optimization', 'particle swarm optimization', 'swarm robotics'], '-> 2018', ['benchmark computing', 'mathematical optimization', 'particle swarm optimization', 'swarm robotics']]
-Union of the topics of the chain into the Macro topic: {'swarm robotics', 'particle swarm optimization', 'benchmark computing', 'mathematical optimization'}
+Union of the topics of the chain into the Macro topic: {'swarm robotics', 'benchmark computing', 'particle swarm optimization', 'mathematical optimization'}
 
  K = 100
 ['2004', ['algorithm'], '-> 2005', ['algorithm'], '-> 2006', ['algorithm'], '-> 2007', ['algorithm'], '-> 2008', ['algorithm'], '-> 2009', ['algorithm'], '-> 2010', ['algorithm'], '-> 2011', ['algorithm'], '-> 2012', ['algorithm'], '-> 2013', ['algorithm'], '-> 2014', ['algorithm'], '-> 2015', ['algorithm'], '-> 2016', ['algorithm'], '-> 2017', ['algorithm'], '-> 2018', ['algorithm']]
 
  K = 100
-['2004', ['mathematical optimization'], '-> 2005', ['benchmark computing', 'mathematical optimization', 'particle swarm optimization', 'swarm robotics'], '-> 2006', ['benchmark computing', 'mathematical optimization', 'particle swarm optimization', 'swarm robotics'], '-> 2007', ['benchmark computing', 'mathematical optimization', 'particle swarm optimization', 'swarm robotics'], '-> 2008', ['benchmark computing', 'mathematical optimization', 'particle swarm optimization', 'swarm robotics'], '-> 2009', ['benchmark computing', 'mathematical optimization', 'particle swarm optimization', 'swarm robotics'], '-> 2010', ['benchmark computing', 'mathematical optimization', 'particle swarm optimization', 'swarm robotics'], '-> 2011', ['benchmark computing', 'mathematical optimization', 'particle swarm optimization', 'swarm robotics'], '-> 2012', ['benchmark computing', 'mathematical optimization', 'particle swarm optimization', 'swarm robotics'], '-> 2013', ['benchmark computing', 'mathematical optimization', 'particle swarm optimization', 'swarm robotics'], '-> 2014', ['benchmark computing', 'mathematical optimization', 'particle swarm optimization', 'swarm robotics'], '-> 2015', ['benchmark computing', 'mathematical optimization', 'particle swarm optimization', 'swarm robotics'], '-> 2016', ['benchmark computing', 'mathematical optimization', 'particle swarm optimization', 'swarm robotics'], '-> 2017', ['benchmark computing', 'mathematical optimization', 'particle swarm optimization', 'swarm robotics'], '-> 2018', ['benchmark computing', 'mathematical optimization', 'particle swarm optimization', 'swarm robotics']]
-Union of the topics of the chain into the Macro topic: {'swarm robotics', 'particle swarm optimization', 'benchmark computing', 'mathematical optimization'}
+['2004', ['mathematical optimization'], '-> 2005', ['benchmark computing', 'mathematical optimization', 'swarm robotics'], '-> 2006', ['benchmark computing', 'mathematical optimization', 'swarm robotics'], '-> 2007', ['benchmark computing', 'mathematical optimization', 'swarm robotics'], '-> 2008', ['benchmark computing', 'mathematical optimization', 'swarm robotics'], '-> 2009', ['benchmark computing', 'mathematical optimization', 'swarm robotics'], '-> 2010', ['benchmark computing', 'mathematical optimization', 'swarm robotics'], '-> 2011', ['benchmark computing', 'mathematical optimization', 'swarm robotics'], '-> 2012', ['benchmark computing', 'mathematical optimization', 'swarm robotics'], '-> 2013', ['benchmark computing', 'mathematical optimization', 'swarm robotics'], '-> 2014', ['benchmark computing', 'mathematical optimization', 'swarm robotics'], '-> 2015', ['benchmark computing', 'mathematical optimization', 'swarm robotics'], '-> 2016', ['benchmark computing', 'mathematical optimization', 'swarm robotics'], '-> 2017', ['benchmark computing', 'mathematical optimization', 'swarm robotics'], '-> 2018', ['benchmark computing', 'mathematical optimization', 'swarm robotics']]
+Union of the topics of the chain into the Macro topic: {'swarm robotics', 'benchmark computing', 'mathematical optimization'}
 
  K = 100
-['2004', ['particle swarm optimization'], '-> 2005', ['particle swarm optimization', 'swarm robotics'], '-> 2006', ['particle swarm optimization', 'swarm robotics'], '-> 2007', ['particle swarm optimization', 'swarm robotics'], '-> 2008', ['particle swarm optimization', 'swarm robotics'], '-> 2009', ['particle swarm optimization', 'swarm robotics'], '-> 2010', ['particle swarm optimization', 'swarm robotics'], '-> 2011', ['particle swarm optimization', 'swarm robotics'], '-> 2012', ['particle swarm optimization', 'swarm robotics'], '-> 2013', ['particle swarm optimization', 'swarm robotics'], '-> 2014', ['particle swarm optimization', 'swarm robotics'], '-> 2015', ['particle swarm optimization', 'swarm robotics'], '-> 2016', ['particle swarm optimization', 'swarm robotics'], '-> 2017', ['particle swarm optimization', 'swarm robotics'], '-> 2018', ['particle swarm optimization', 'swarm robotics']]
-Union of the topics of the chain into the Macro topic: {'swarm robotics', 'particle swarm optimization'}
+['2004', ['particle swarm optimization'], '-> 2005', ['benchmark computing', 'mathematical optimization', 'particle swarm optimization'], '-> 2006', ['benchmark computing', 'mathematical optimization', 'particle swarm optimization'], '-> 2007', ['benchmark computing', 'mathematical optimization', 'particle swarm optimization'], '-> 2008', ['benchmark computing', 'mathematical optimization', 'particle swarm optimization'], '-> 2009', ['benchmark computing', 'mathematical optimization', 'particle swarm optimization'], '-> 2010', ['benchmark computing', 'mathematical optimization', 'particle swarm optimization'], '-> 2011', ['benchmark computing', 'mathematical optimization', 'particle swarm optimization'], '-> 2012', ['benchmark computing', 'mathematical optimization', 'particle swarm optimization'], '-> 2013', ['benchmark computing', 'mathematical optimization', 'particle swarm optimization'], '-> 2014', ['benchmark computing', 'mathematical optimization', 'particle swarm optimization'], '-> 2015', ['benchmark computing', 'mathematical optimization', 'particle swarm optimization'], '-> 2016', ['benchmark computing', 'mathematical optimization', 'particle swarm optimization'], '-> 2017', ['benchmark computing', 'mathematical optimization', 'particle swarm optimization'], '-> 2018', ['benchmark computing', 'mathematical optimization', 'particle swarm optimization']]
+Union of the topics of the chain into the Macro topic: {'mathematical optimization', 'particle swarm optimization', 'benchmark computing'}
 
  K = 100
-['2004', ['benchmark computing'], '-> 2005', ['benchmark computing', 'mathematical optimization', 'particle swarm optimization', 'swarm robotics'], '-> 2006', ['benchmark computing', 'mathematical optimization', 'particle swarm optimization', 'swarm robotics'], '-> 2007', ['benchmark computing', 'mathematical optimization', 'particle swarm optimization', 'swarm robotics'], '-> 2008', ['benchmark computing', 'mathematical optimization', 'particle swarm optimization', 'swarm robotics'], '-> 2009', ['benchmark computing', 'mathematical optimization', 'particle swarm optimization', 'swarm robotics'], '-> 2010', ['benchmark computing', 'mathematical optimization', 'particle swarm optimization', 'swarm robotics'], '-> 2011', ['benchmark computing', 'mathematical optimization', 'particle swarm optimization', 'swarm robotics'], '-> 2012', ['benchmark computing', 'mathematical optimization', 'particle swarm optimization', 'swarm robotics'], '-> 2013', ['benchmark computing', 'mathematical optimization', 'particle swarm optimization', 'swarm robotics'], '-> 2014', ['benchmark computing', 'mathematical optimization', 'particle swarm optimization', 'swarm robotics'], '-> 2015', ['benchmark computing', 'mathematical optimization', 'particle swarm optimization', 'swarm robotics'], '-> 2016', ['benchmark computing', 'mathematical optimization', 'particle swarm optimization', 'swarm robotics'], '-> 2017', ['benchmark computing', 'mathematical optimization', 'particle swarm optimization', 'swarm robotics'], '-> 2018', ['benchmark computing', 'mathematical optimization', 'particle swarm optimization', 'swarm robotics']]
-Union of the topics of the chain into the Macro topic: {'swarm robotics', 'particle swarm optimization', 'benchmark computing', 'mathematical optimization'}
+['2004', ['benchmark computing'], '-> 2005', ['benchmark computing', 'mathematical optimization', 'swarm robotics'], '-> 2006', ['benchmark computing', 'mathematical optimization', 'swarm robotics'], '-> 2007', ['benchmark computing', 'mathematical optimization', 'swarm robotics'], '-> 2008', ['benchmark computing', 'mathematical optimization', 'swarm robotics'], '-> 2009', ['benchmark computing', 'mathematical optimization', 'swarm robotics'], '-> 2010', ['benchmark computing', 'mathematical optimization', 'swarm robotics'], '-> 2011', ['benchmark computing', 'mathematical optimization', 'swarm robotics'], '-> 2012', ['benchmark computing', 'mathematical optimization', 'swarm robotics'], '-> 2013', ['benchmark computing', 'mathematical optimization', 'swarm robotics'], '-> 2014', ['benchmark computing', 'mathematical optimization', 'swarm robotics'], '-> 2015', ['benchmark computing', 'mathematical optimization', 'swarm robotics'], '-> 2016', ['benchmark computing', 'mathematical optimization', 'swarm robotics'], '-> 2017', ['benchmark computing', 'mathematical optimization', 'swarm robotics'], '-> 2018', ['benchmark computing', 'mathematical optimization', 'swarm robotics']]
+Union of the topics of the chain into the Macro topic: {'swarm robotics', 'mathematical optimization', 'benchmark computing'}
 
  ---------- YEAR 2005 ---------- 
 
+ K = 5
+['2005', ['global exponential stability'], '-> 2006', ['discrete and distributed delays', 'global exponential stability'], '-> 2007', ['discrete and distributed delays', 'global exponential stability'], '-> 2008', ['discrete and distributed delays', 'global exponential stability'], '-> 2009', ['discrete and distributed delays', 'global exponential stability'], '-> 2010', ['discrete and distributed delays', 'global exponential stability'], '-> 2011', ['discrete and distributed delays', 'global exponential stability'], '-> 2012', ['discrete and distributed delays', 'global exponential stability'], '-> 2013', ['discrete and distributed delays', 'global exponential stability'], '-> 2014', ['discrete and distributed delays', 'global exponential stability'], '-> 2015', ['discrete and distributed delays', 'global exponential stability'], '-> 2016', ['discrete and distributed delays', 'global exponential stability'], '-> 2017', ['discrete and distributed delays', 'global exponential stability'], '-> 2018', ['discrete and distributed delays', 'global exponential stability']]
+Union of the topics of the chain into the Macro topic: {'discrete and distributed delays', 'global exponential stability'}
+
  K = 10
-['2005', ['activation function', 'artificial neural network', 'lyapunov fractal', 'social inequality'], '-> 2006', ['artificial neural network'], '-> 2007', ['artificial neural network'], '-> 2008', ['artificial neural network'], '-> 2009', ['artificial neural network'], '-> 2010', ['artificial neural network'], '-> 2011', ['artificial neural network'], '-> 2012', ['artificial neural network'], '-> 2013', ['artificial neural network'], '-> 2014', ['artificial neural network'], '-> 2015', ['artificial neural network'], '-> 2016', ['artificial neural network'], '-> 2017', ['artificial neural network'], '-> 2018', ['artificial neural network']]
+['2005', ['discretetime', 'global exponential stability'], '-> 2006', ['global exponential stability'], '-> 2007', ['global exponential stability'], '-> 2008', ['global exponential stability'], '-> 2009', ['global exponential stability'], '-> 2010', ['global exponential stability'], '-> 2011', ['global exponential stability'], '-> 2012', ['global exponential stability'], '-> 2013', ['global exponential stability'], '-> 2014', ['global exponential stability'], '-> 2015', ['global exponential stability'], '-> 2016', ['global exponential stability'], '-> 2017', ['global exponential stability'], '-> 2018', ['global exponential stability']]
+
+ K = 20
+['2005', ['global exponential stability', 'periodic solutions'], '-> 2006', ['distributed delays', 'global exponential stability'], '-> 2007', ['distributed delays', 'global exponential stability'], '-> 2008', ['distributed delays', 'global exponential stability'], '-> 2009', ['distributed delays', 'global exponential stability'], '-> 2010', ['distributed delays', 'global exponential stability'], '-> 2011', ['distributed delays', 'global exponential stability'], '-> 2012', ['distributed delays', 'global exponential stability'], '-> 2013', ['distributed delays', 'global exponential stability'], '-> 2014', ['distributed delays', 'global exponential stability'], '-> 2015', ['distributed delays', 'global exponential stability'], '-> 2016', ['distributed delays', 'global exponential stability'], '-> 2017', ['distributed delays', 'global exponential stability'], '-> 2018', ['distributed delays', 'global exponential stability']]
+Union of the topics of the chain into the Macro topic: {'distributed delays', 'periodic solutions', 'global exponential stability'}
+
+ K = 20
+['2005', ['artificial neural network', 'lyapunov fractal'], '-> 2006', ['artificial neural network', 'timevarying delays'], '-> 2007', ['artificial neural network', 'timevarying delays'], '-> 2008', ['artificial neural network', 'timevarying delays'], '-> 2009', ['artificial neural network', 'timevarying delays'], '-> 2010', ['artificial neural network', 'timevarying delays'], '-> 2011', ['artificial neural network', 'timevarying delays'], '-> 2012', ['artificial neural network', 'timevarying delays'], '-> 2013', ['artificial neural network', 'timevarying delays'], '-> 2014', ['artificial neural network', 'timevarying delays'], '-> 2015', ['artificial neural network', 'timevarying delays'], '-> 2016', ['artificial neural network', 'timevarying delays'], '-> 2017', ['artificial neural network', 'timevarying delays'], '-> 2018', ['artificial neural network', 'timevarying delays']]
+Union of the topics of the chain into the Macro topic: {'timevarying delays', 'artificial neural network', 'lyapunov fractal'}
 
  K = 100
-['2005', ['global exponential stability'], '-> 2006', ['distributed delays', 'global exponential stability'], '-> 2007', ['distributed delays', 'global exponential stability'], '-> 2008', ['distributed delays', 'global exponential stability'], '-> 2009', ['distributed delays', 'global exponential stability'], '-> 2010', ['distributed delays', 'global exponential stability'], '-> 2011', ['distributed delays', 'global exponential stability'], '-> 2012', ['distributed delays', 'global exponential stability'], '-> 2013', ['distributed delays', 'global exponential stability'], '-> 2014', ['distributed delays', 'global exponential stability'], '-> 2015', ['distributed delays', 'global exponential stability'], '-> 2016', ['distributed delays', 'global exponential stability'], '-> 2017', ['distributed delays', 'global exponential stability'], '-> 2018', ['distributed delays', 'global exponential stability']]
-Union of the topics of the chain into the Macro topic: {'distributed delays', 'global exponential stability'}
+['2005', ['neural networks'], '-> 2006', ['neural networks'], '-> 2007', ['neural networks'], '-> 2008', ['neural networks'], '-> 2009', ['neural networks'], '-> 2010', ['neural networks'], '-> 2011', ['neural networks'], '-> 2012', ['neural networks'], '-> 2013', ['neural networks'], '-> 2014', ['neural networks'], '-> 2015', ['neural networks'], '-> 2016', ['neural networks'], '-> 2017', ['neural networks'], '-> 2018', ['neural networks']]
 
  K = 100
-['2005', ['neural networks'], '-> 2006', ['neural networks', 'periodic solution'], '-> 2007', ['neural networks', 'periodic solution'], '-> 2008', ['neural networks', 'periodic solution'], '-> 2009', ['neural networks', 'periodic solution'], '-> 2010', ['neural networks', 'periodic solution'], '-> 2011', ['neural networks', 'periodic solution'], '-> 2012', ['neural networks', 'periodic solution'], '-> 2013', ['neural networks', 'periodic solution'], '-> 2014', ['neural networks', 'periodic solution'], '-> 2015', ['neural networks', 'periodic solution'], '-> 2016', ['neural networks', 'periodic solution'], '-> 2017', ['neural networks', 'periodic solution'], '-> 2018', ['neural networks', 'periodic solution']]
-Union of the topics of the chain into the Macro topic: {'periodic solution', 'neural networks'}
+['2005', ['benchmark computing', 'mathematical optimization', 'particle swarm optimization'], '-> 2006', ['particle swarm optimization'], '-> 2007', ['particle swarm optimization'], '-> 2008', ['particle swarm optimization'], '-> 2009', ['particle swarm optimization'], '-> 2010', ['particle swarm optimization'], '-> 2011', ['particle swarm optimization'], '-> 2012', ['particle swarm optimization'], '-> 2013', ['particle swarm optimization'], '-> 2014', ['particle swarm optimization'], '-> 2015', ['particle swarm optimization'], '-> 2016', ['particle swarm optimization'], '-> 2017', ['particle swarm optimization'], '-> 2018', ['particle swarm optimization']]
 
  K = 100
-['2005', ['benchmark computing', 'mathematical optimization', 'particle swarm optimization', 'swarm robotics'], '-> 2006', ['particle swarm optimization'], '-> 2007', ['particle swarm optimization'], '-> 2008', ['particle swarm optimization'], '-> 2009', ['particle swarm optimization'], '-> 2010', ['particle swarm optimization'], '-> 2011', ['particle swarm optimization'], '-> 2012', ['particle swarm optimization'], '-> 2013', ['particle swarm optimization'], '-> 2014', ['particle swarm optimization'], '-> 2015', ['particle swarm optimization'], '-> 2016', ['particle swarm optimization'], '-> 2017', ['particle swarm optimization'], '-> 2018', ['particle swarm optimization']]
+['2005', ['algorithm'], '-> 2006', ['algorithm', 'optimization problem'], '-> 2007', ['algorithm', 'optimization problem'], '-> 2008', ['algorithm', 'optimization problem'], '-> 2009', ['algorithm', 'optimization problem'], '-> 2010', ['algorithm', 'optimization problem'], '-> 2011', ['algorithm', 'optimization problem'], '-> 2012', ['algorithm', 'optimization problem'], '-> 2013', ['algorithm', 'optimization problem'], '-> 2014', ['algorithm', 'optimization problem'], '-> 2015', ['algorithm', 'optimization problem'], '-> 2016', ['algorithm', 'optimization problem'], '-> 2017', ['algorithm', 'optimization problem'], '-> 2018', ['algorithm', 'optimization problem']]
+Union of the topics of the chain into the Macro topic: {'optimization problem', 'algorithm'}
 
  K = 100
-['2005', ['benchmark computing', 'mathematical optimization', 'particle swarm optimization', 'swarm robotics'], '-> 2006', ['particle swarm optimization'], '-> 2007', ['particle swarm optimization'], '-> 2008', ['particle swarm optimization'], '-> 2009', ['particle swarm optimization'], '-> 2010', ['particle swarm optimization'], '-> 2011', ['particle swarm optimization'], '-> 2012', ['particle swarm optimization'], '-> 2013', ['particle swarm optimization'], '-> 2014', ['particle swarm optimization'], '-> 2015', ['particle swarm optimization'], '-> 2016', ['particle swarm optimization'], '-> 2017', ['particle swarm optimization'], '-> 2018', ['particle swarm optimization']]
-
- K = 100
-['2005', ['particle swarm optimization', 'swarm robotics'], '-> 2006', ['particle swarm optimization'], '-> 2007', ['particle swarm optimization'], '-> 2008', ['particle swarm optimization'], '-> 2009', ['particle swarm optimization'], '-> 2010', ['particle swarm optimization'], '-> 2011', ['particle swarm optimization'], '-> 2012', ['particle swarm optimization'], '-> 2013', ['particle swarm optimization'], '-> 2014', ['particle swarm optimization'], '-> 2015', ['particle swarm optimization'], '-> 2016', ['particle swarm optimization'], '-> 2017', ['particle swarm optimization'], '-> 2018', ['particle swarm optimization']]
-
- K = 100
-['2005', ['algorithm'], '-> 2006', ['algorithm', 'machine learning'], '-> 2007', ['algorithm', 'machine learning'], '-> 2008', ['algorithm', 'machine learning'], '-> 2009', ['algorithm', 'machine learning'], '-> 2010', ['algorithm', 'machine learning'], '-> 2011', ['algorithm', 'machine learning'], '-> 2012', ['algorithm', 'machine learning'], '-> 2013', ['algorithm', 'machine learning'], '-> 2014', ['algorithm', 'machine learning'], '-> 2015', ['algorithm', 'machine learning'], '-> 2016', ['algorithm', 'machine learning'], '-> 2017', ['algorithm', 'machine learning'], '-> 2018', ['algorithm', 'machine learning']]
-Union of the topics of the chain into the Macro topic: {'machine learning', 'algorithm'}
-
- K = 100
-['2005', ['activation function', 'artificial neural network', 'lyapunov fractal', 'recurrent neural network'], '-> 2006', ['lyapunov fractal'], '-> 2007', ['lyapunov fractal'], '-> 2008', ['lyapunov fractal'], '-> 2009', ['lyapunov fractal'], '-> 2010', ['lyapunov fractal'], '-> 2011', ['lyapunov fractal'], '-> 2012', ['lyapunov fractal'], '-> 2013', ['lyapunov fractal'], '-> 2014', ['lyapunov fractal'], '-> 2015', ['lyapunov fractal'], '-> 2016', ['lyapunov fractal'], '-> 2017', ['lyapunov fractal'], '-> 2018', ['lyapunov fractal']]
-
- K = 100
-['2005', ['lyapunov fractal', 'neural network simulation', 'social inequality'], '-> 2006', ['lyapunov fractal'], '-> 2007', ['lyapunov fractal'], '-> 2008', ['lyapunov fractal'], '-> 2009', ['lyapunov fractal'], '-> 2010', ['lyapunov fractal'], '-> 2011', ['lyapunov fractal'], '-> 2012', ['lyapunov fractal'], '-> 2013', ['lyapunov fractal'], '-> 2014', ['lyapunov fractal'], '-> 2015', ['lyapunov fractal'], '-> 2016', ['lyapunov fractal'], '-> 2017', ['lyapunov fractal'], '-> 2018', ['lyapunov fractal']]
+['2005', ['activation function', 'artificial neural network', 'lyapunov fractal'], '-> 2006', ['lyapunov fractal'], '-> 2007', ['lyapunov fractal'], '-> 2008', ['lyapunov fractal'], '-> 2009', ['lyapunov fractal'], '-> 2010', ['lyapunov fractal'], '-> 2011', ['lyapunov fractal'], '-> 2012', ['lyapunov fractal'], '-> 2013', ['lyapunov fractal'], '-> 2014', ['lyapunov fractal'], '-> 2015', ['lyapunov fractal'], '-> 2016', ['lyapunov fractal'], '-> 2017', ['lyapunov fractal'], '-> 2018', ['lyapunov fractal']]
 
  K = 100
 ['2005', ['benchmark computing', 'mathematical optimization', 'particle swarm optimization', 'swarm robotics'], '-> 2006', ['particle swarm optimization'], '-> 2007', ['particle swarm optimization'], '-> 2008', ['particle swarm optimization'], '-> 2009', ['particle swarm optimization'], '-> 2010', ['particle swarm optimization'], '-> 2011', ['particle swarm optimization'], '-> 2012', ['particle swarm optimization'], '-> 2013', ['particle swarm optimization'], '-> 2014', ['particle swarm optimization'], '-> 2015', ['particle swarm optimization'], '-> 2016', ['particle swarm optimization'], '-> 2017', ['particle swarm optimization'], '-> 2018', ['particle swarm optimization']]
 
  ---------- YEAR 2006 ---------- 
-
- K = 100
-['2006', ['numerical analysis'], '-> 2007', ['numerical analysis'], '-> 2008', ['numerical analysis'], '-> 2009', ['numerical analysis'], '-> 2010', ['numerical analysis'], '-> 2011', ['numerical analysis'], '-> 2012', ['numerical analysis'], '-> 2013', ['numerical analysis'], '-> 2014', ['numerical analysis'], '-> 2015', ['numerical analysis'], '-> 2016', ['numerical analysis'], '-> 2017', ['numerical analysis'], '-> 2018', ['numerical analysis']]
-
- K = 100
-['2006', ['artificial neural network'], '-> 2007', ['artificial neural network', 'bidirectional associative memory', 'linear matrix inequality', 'social inequality'], '-> 2008', ['artificial neural network', 'bidirectional associative memory', 'linear matrix inequality', 'social inequality'], '-> 2009', ['artificial neural network', 'bidirectional associative memory', 'linear matrix inequality', 'social inequality'], '-> 2010', ['artificial neural network', 'bidirectional associative memory', 'linear matrix inequality', 'social inequality'], '-> 2011', ['artificial neural network', 'bidirectional associative memory', 'linear matrix inequality', 'social inequality'], '-> 2012', ['artificial neural network', 'bidirectional associative memory', 'linear matrix inequality', 'social inequality'], '-> 2013', ['artificial neural network', 'bidirectional associative memory', 'linear matrix inequality', 'social inequality'], '-> 2014', ['artificial neural network', 'bidirectional associative memory', 'linear matrix inequality', 'social inequality'], '-> 2015', ['artificial neural network', 'bidirectional associative memory', 'linear matrix inequality', 'social inequality'], '-> 2016', ['artificial neural network', 'bidirectional associative memory', 'linear matrix inequality', 'social inequality'], '-> 2017', ['artificial neural network', 'bidirectional associative memory', 'linear matrix inequality', 'social inequality'], '-> 2018', ['artificial neural network', 'bidirectional associative memory', 'linear matrix inequality', 'social inequality']]
-Union of the topics of the chain into the Macro topic: {'linear matrix inequality', 'social inequality', 'artificial neural network', 'bidirectional associative memory'}
-
- K = 100
-['2006', ['distributed delays', 'global exponential stability'], '-> 2007', ['bidirectional associative memory neural networks', 'distributed delays'], '-> 2008', ['bidirectional associative memory neural networks', 'distributed delays'], '-> 2009', ['bidirectional associative memory neural networks', 'distributed delays'], '-> 2010', ['bidirectional associative memory neural networks', 'distributed delays'], '-> 2011', ['bidirectional associative memory neural networks', 'distributed delays'], '-> 2012', ['bidirectional associative memory neural networks', 'distributed delays'], '-> 2013', ['bidirectional associative memory neural networks', 'distributed delays'], '-> 2014', ['bidirectional associative memory neural networks', 'distributed delays'], '-> 2015', ['bidirectional associative memory neural networks', 'distributed delays'], '-> 2016', ['bidirectional associative memory neural networks', 'distributed delays'], '-> 2017', ['bidirectional associative memory neural networks', 'distributed delays'], '-> 2018', ['bidirectional associative memory neural networks', 'distributed delays']]
-Union of the topics of the chain into the Macro topic: {'distributed delays', 'bidirectional associative memory neural networks', 'global exponential stability'}
 
  K = 100
 ['2006', ['particle swarm optimization'], '-> 2007', ['particle swarm optimization'], '-> 2008', ['particle swarm optimization'], '-> 2009', ['particle swarm optimization'], '-> 2010', ['particle swarm optimization'], '-> 2011', ['particle swarm optimization'], '-> 2012', ['particle swarm optimization'], '-> 2013', ['particle swarm optimization'], '-> 2014', ['particle swarm optimization'], '-> 2015', ['particle swarm optimization'], '-> 2016', ['particle swarm optimization'], '-> 2017', ['particle swarm optimization'], '-> 2018', ['particle swarm optimization']]
@@ -161,32 +144,23 @@ Union of the topics of the chain into the Macro topic: {'distributed delays', 'b
 ['2006', ['lyapunov fractal'], '-> 2007', ['lyapunov fractal'], '-> 2008', ['lyapunov fractal'], '-> 2009', ['lyapunov fractal'], '-> 2010', ['lyapunov fractal'], '-> 2011', ['lyapunov fractal'], '-> 2012', ['lyapunov fractal'], '-> 2013', ['lyapunov fractal'], '-> 2014', ['lyapunov fractal'], '-> 2015', ['lyapunov fractal'], '-> 2016', ['lyapunov fractal'], '-> 2017', ['lyapunov fractal'], '-> 2018', ['lyapunov fractal']]
 
  K = 100
-['2006', ['periodic solution', 'timevarying delays'], '-> 2007', ['timevarying delays'], '-> 2008', ['timevarying delays'], '-> 2009', ['timevarying delays'], '-> 2010', ['timevarying delays'], '-> 2011', ['timevarying delays'], '-> 2012', ['timevarying delays'], '-> 2013', ['timevarying delays'], '-> 2014', ['timevarying delays'], '-> 2015', ['timevarying delays'], '-> 2016', ['timevarying delays'], '-> 2017', ['timevarying delays'], '-> 2018', ['timevarying delays']]
+['2006', ['artificial neural network', 'numerical analysis', 'timevarying delays'], '-> 2007', ['numerical analysis'], '-> 2008', ['numerical analysis'], '-> 2009', ['numerical analysis'], '-> 2010', ['numerical analysis'], '-> 2011', ['numerical analysis'], '-> 2012', ['numerical analysis'], '-> 2013', ['numerical analysis'], '-> 2014', ['numerical analysis'], '-> 2015', ['numerical analysis'], '-> 2016', ['numerical analysis'], '-> 2017', ['numerical analysis'], '-> 2018', ['numerical analysis']]
 
  K = 100
-['2006', ['neural networks', 'periodic solution', 'timevarying delays'], '-> 2007', ['timevarying delays'], '-> 2008', ['timevarying delays'], '-> 2009', ['timevarying delays'], '-> 2010', ['timevarying delays'], '-> 2011', ['timevarying delays'], '-> 2012', ['timevarying delays'], '-> 2013', ['timevarying delays'], '-> 2014', ['timevarying delays'], '-> 2015', ['timevarying delays'], '-> 2016', ['timevarying delays'], '-> 2017', ['timevarying delays'], '-> 2018', ['timevarying delays']]
+['2006', ['cohen–grossberg neural network', 'timevarying delays'], '-> 2007', ['timevarying delays'], '-> 2008', ['timevarying delays'], '-> 2009', ['timevarying delays'], '-> 2010', ['timevarying delays'], '-> 2011', ['timevarying delays'], '-> 2012', ['timevarying delays'], '-> 2013', ['timevarying delays'], '-> 2014', ['timevarying delays'], '-> 2015', ['timevarying delays'], '-> 2016', ['timevarying delays'], '-> 2017', ['timevarying delays'], '-> 2018', ['timevarying delays']]
 
  ---------- YEAR 2007 ---------- 
 
- K = 10
-['2007', ['mathematical optimization'], '-> 2008', ['mathematical optimization'], '-> 2009', ['mathematical optimization'], '-> 2010', ['mathematical optimization'], '-> 2011', ['mathematical optimization'], '-> 2012', ['mathematical optimization'], '-> 2013', ['mathematical optimization'], '-> 2014', ['mathematical optimization'], '-> 2015', ['mathematical optimization'], '-> 2016', ['mathematical optimization'], '-> 2017', ['mathematical optimization'], '-> 2018', ['mathematical optimization']]
-
- K = 10
-['2007', ['linear matrix inequality', 'social inequality'], '-> 2008', ['lyapunov fractal', 'social inequality'], '-> 2009', ['lyapunov fractal', 'social inequality'], '-> 2010', ['lyapunov fractal', 'social inequality'], '-> 2011', ['lyapunov fractal', 'social inequality'], '-> 2012', ['lyapunov fractal', 'social inequality'], '-> 2013', ['lyapunov fractal', 'social inequality'], '-> 2014', ['lyapunov fractal', 'social inequality'], '-> 2015', ['lyapunov fractal', 'social inequality'], '-> 2016', ['lyapunov fractal', 'social inequality'], '-> 2017', ['lyapunov fractal', 'social inequality'], '-> 2018', ['lyapunov fractal', 'social inequality']]
-Union of the topics of the chain into the Macro topic: {'linear matrix inequality', 'social inequality', 'lyapunov fractal'}
-
- K = 10
-['2007', ['artificial neural network', 'bidirectional associative memory neural networks', 'cohen–grossberg neural networks', 'linear matrix inequality', 'lyapunov fractal', 'lyapunov functional', 'neural network simulation', 'social inequality', 'timevarying delays'], '-> 2008', ['artificial neural network', 'lyapunov fractal', 'social inequality'], '-> 2009', ['artificial neural network', 'lyapunov fractal', 'social inequality'], '-> 2010', ['artificial neural network', 'lyapunov fractal', 'social inequality'], '-> 2011', ['artificial neural network', 'lyapunov fractal', 'social inequality'], '-> 2012', ['artificial neural network', 'lyapunov fractal', 'social inequality'], '-> 2013', ['artificial neural network', 'lyapunov fractal', 'social inequality'], '-> 2014', ['artificial neural network', 'lyapunov fractal', 'social inequality'], '-> 2015', ['artificial neural network', 'lyapunov fractal', 'social inequality'], '-> 2016', ['artificial neural network', 'lyapunov fractal', 'social inequality'], '-> 2017', ['artificial neural network', 'lyapunov fractal', 'social inequality'], '-> 2018', ['artificial neural network', 'lyapunov fractal', 'social inequality']]
-
- K = 10
-['2007', ['linear matrix inequality', 'social inequality'], '-> 2008', ['lyapunov fractal', 'social inequality'], '-> 2009', ['lyapunov fractal', 'social inequality'], '-> 2010', ['lyapunov fractal', 'social inequality'], '-> 2011', ['lyapunov fractal', 'social inequality'], '-> 2012', ['lyapunov fractal', 'social inequality'], '-> 2013', ['lyapunov fractal', 'social inequality'], '-> 2014', ['lyapunov fractal', 'social inequality'], '-> 2015', ['lyapunov fractal', 'social inequality'], '-> 2016', ['lyapunov fractal', 'social inequality'], '-> 2017', ['lyapunov fractal', 'social inequality'], '-> 2018', ['lyapunov fractal', 'social inequality']]
-Union of the topics of the chain into the Macro topic: {'linear matrix inequality', 'social inequality', 'lyapunov fractal'}
+ K = 5
+['2007', ['linear matrix inequality'], '-> 2008', ['global asymptotic stability', 'linear matrix inequality', 'lyapunov–krasovskii functional'], '-> 2009', ['global asymptotic stability', 'linear matrix inequality', 'lyapunov–krasovskii functional'], '-> 2010', ['global asymptotic stability', 'linear matrix inequality', 'lyapunov–krasovskii functional'], '-> 2011', ['global asymptotic stability', 'linear matrix inequality', 'lyapunov–krasovskii functional'], '-> 2012', ['global asymptotic stability', 'linear matrix inequality', 'lyapunov–krasovskii functional'], '-> 2013', ['global asymptotic stability', 'linear matrix inequality', 'lyapunov–krasovskii functional'], '-> 2014', ['global asymptotic stability', 'linear matrix inequality', 'lyapunov–krasovskii functional'], '-> 2015', ['global asymptotic stability', 'linear matrix inequality', 'lyapunov–krasovskii functional'], '-> 2016', ['global asymptotic stability', 'linear matrix inequality', 'lyapunov–krasovskii functional'], '-> 2017', ['global asymptotic stability', 'linear matrix inequality', 'lyapunov–krasovskii functional'], '-> 2018', ['global asymptotic stability', 'linear matrix inequality', 'lyapunov–krasovskii functional']]
+Union of the topics of the chain into the Macro topic: {'global asymptotic stability', 'lyapunov–krasovskii functional', 'linear matrix inequality'}
 
  K = 20
-['2007', ['mathematical optimization'], '-> 2008', ['mathematical optimization'], '-> 2009', ['mathematical optimization'], '-> 2010', ['mathematical optimization'], '-> 2011', ['mathematical optimization'], '-> 2012', ['mathematical optimization'], '-> 2013', ['mathematical optimization'], '-> 2014', ['mathematical optimization'], '-> 2015', ['mathematical optimization'], '-> 2016', ['mathematical optimization'], '-> 2017', ['mathematical optimization'], '-> 2018', ['mathematical optimization']]
+['2007', ['linear matrix inequality'], '-> 2008', ['artificial neural network', 'linear matrix inequality', 'lyapunov fractal'], '-> 2009', ['artificial neural network', 'linear matrix inequality', 'lyapunov fractal'], '-> 2010', ['artificial neural network', 'linear matrix inequality', 'lyapunov fractal'], '-> 2011', ['artificial neural network', 'linear matrix inequality', 'lyapunov fractal'], '-> 2012', ['artificial neural network', 'linear matrix inequality', 'lyapunov fractal'], '-> 2013', ['artificial neural network', 'linear matrix inequality', 'lyapunov fractal'], '-> 2014', ['artificial neural network', 'linear matrix inequality', 'lyapunov fractal'], '-> 2015', ['artificial neural network', 'linear matrix inequality', 'lyapunov fractal'], '-> 2016', ['artificial neural network', 'linear matrix inequality', 'lyapunov fractal'], '-> 2017', ['artificial neural network', 'linear matrix inequality', 'lyapunov fractal'], '-> 2018', ['artificial neural network', 'linear matrix inequality', 'lyapunov fractal']]
+Union of the topics of the chain into the Macro topic: {'artificial neural network', 'lyapunov fractal', 'linear matrix inequality'}
 
- K = 100
-['2007', ['social inequality'], '-> 2008', ['social inequality'], '-> 2009', ['social inequality'], '-> 2010', ['social inequality'], '-> 2011', ['social inequality'], '-> 2012', ['social inequality'], '-> 2013', ['social inequality'], '-> 2014', ['social inequality'], '-> 2015', ['social inequality'], '-> 2016', ['social inequality'], '-> 2017', ['social inequality'], '-> 2018', ['social inequality']]
+ K = 20
+['2007', ['artificial neural network', 'bidirectional associative memory', 'cohen–grossberg neural networks', 'contentaddressable memory', 'linear matrix inequality', 'lyapunov fractal', 'lyapunov functional', 'neural network simulation', 'social inequality', 'timevarying delays'], '-> 2008', ['artificial neural network', 'linear matrix inequality', 'lyapunov fractal'], '-> 2009', ['artificial neural network', 'linear matrix inequality', 'lyapunov fractal'], '-> 2010', ['artificial neural network', 'linear matrix inequality', 'lyapunov fractal'], '-> 2011', ['artificial neural network', 'linear matrix inequality', 'lyapunov fractal'], '-> 2012', ['artificial neural network', 'linear matrix inequality', 'lyapunov fractal'], '-> 2013', ['artificial neural network', 'linear matrix inequality', 'lyapunov fractal'], '-> 2014', ['artificial neural network', 'linear matrix inequality', 'lyapunov fractal'], '-> 2015', ['artificial neural network', 'linear matrix inequality', 'lyapunov fractal'], '-> 2016', ['artificial neural network', 'linear matrix inequality', 'lyapunov fractal'], '-> 2017', ['artificial neural network', 'linear matrix inequality', 'lyapunov fractal'], '-> 2018', ['artificial neural network', 'linear matrix inequality', 'lyapunov fractal']]
 
  K = 100
 ['2007', ['varying delays'], '-> 2008', ['varying delays'], '-> 2009', ['varying delays'], '-> 2010', ['varying delays'], '-> 2011', ['varying delays'], '-> 2012', ['varying delays'], '-> 2013', ['varying delays'], '-> 2014', ['varying delays'], '-> 2015', ['varying delays'], '-> 2016', ['varying delays'], '-> 2017', ['varying delays'], '-> 2018', ['varying delays']]
@@ -195,7 +169,8 @@ Union of the topics of the chain into the Macro topic: {'linear matrix inequalit
 ['2007', ['timevarying delays'], '-> 2008', ['timevarying delays'], '-> 2009', ['timevarying delays'], '-> 2010', ['timevarying delays'], '-> 2011', ['timevarying delays'], '-> 2012', ['timevarying delays'], '-> 2013', ['timevarying delays'], '-> 2014', ['timevarying delays'], '-> 2015', ['timevarying delays'], '-> 2016', ['timevarying delays'], '-> 2017', ['timevarying delays'], '-> 2018', ['timevarying delays']]
 
  K = 100
-['2007', ['lyapunov fractal'], '-> 2008', ['lyapunov fractal'], '-> 2009', ['lyapunov fractal'], '-> 2010', ['lyapunov fractal'], '-> 2011', ['lyapunov fractal'], '-> 2012', ['lyapunov fractal'], '-> 2013', ['lyapunov fractal'], '-> 2014', ['lyapunov fractal'], '-> 2015', ['lyapunov fractal'], '-> 2016', ['lyapunov fractal'], '-> 2017', ['lyapunov fractal'], '-> 2018', ['lyapunov fractal']]
+['2007', ['lyapunov fractal'], '-> 2008', ['exponential', 'lyapunov fractal'], '-> 2009', ['exponential', 'lyapunov fractal'], '-> 2010', ['exponential', 'lyapunov fractal'], '-> 2011', ['exponential', 'lyapunov fractal'], '-> 2012', ['exponential', 'lyapunov fractal'], '-> 2013', ['exponential', 'lyapunov fractal'], '-> 2014', ['exponential', 'lyapunov fractal'], '-> 2015', ['exponential', 'lyapunov fractal'], '-> 2016', ['exponential', 'lyapunov fractal'], '-> 2017', ['exponential', 'lyapunov fractal'], '-> 2018', ['exponential', 'lyapunov fractal']]
+Union of the topics of the chain into the Macro topic: {'lyapunov fractal', 'exponential'}
 
  K = 100
 ['2007', ['rate of convergence'], '-> 2008', ['rate of convergence'], '-> 2009', ['rate of convergence'], '-> 2010', ['rate of convergence'], '-> 2011', ['rate of convergence'], '-> 2012', ['rate of convergence'], '-> 2013', ['rate of convergence'], '-> 2014', ['rate of convergence'], '-> 2015', ['rate of convergence'], '-> 2016', ['rate of convergence'], '-> 2017', ['rate of convergence'], '-> 2018', ['rate of convergence']]
@@ -207,11 +182,12 @@ Union of the topics of the chain into the Macro topic: {'linear matrix inequalit
 ['2007', ['lyapunov–krasovskii functional'], '-> 2008', ['lyapunov–krasovskii functional'], '-> 2009', ['lyapunov–krasovskii functional'], '-> 2010', ['lyapunov–krasovskii functional'], '-> 2011', ['lyapunov–krasovskii functional'], '-> 2012', ['lyapunov–krasovskii functional'], '-> 2013', ['lyapunov–krasovskii functional'], '-> 2014', ['lyapunov–krasovskii functional'], '-> 2015', ['lyapunov–krasovskii functional'], '-> 2016', ['lyapunov–krasovskii functional'], '-> 2017', ['lyapunov–krasovskii functional'], '-> 2018', ['lyapunov–krasovskii functional']]
 
  K = 100
-['2007', ['artificial neural network', 'bidirectional associative memory', 'linear matrix inequality', 'social inequality'], '-> 2008', ['artificial neural network'], '-> 2009', ['artificial neural network'], '-> 2010', ['artificial neural network'], '-> 2011', ['artificial neural network'], '-> 2012', ['artificial neural network'], '-> 2013', ['artificial neural network'], '-> 2014', ['artificial neural network'], '-> 2015', ['artificial neural network'], '-> 2016', ['artificial neural network'], '-> 2017', ['artificial neural network'], '-> 2018', ['artificial neural network']]
+['2007', ['artificial neural network', 'cohen–grossberg neural networks', 'linear matrix inequality', 'neural network simulation', 'social inequality', 'timevarying delays'], '-> 2008', ['artificial neural network', 'biological neural networks', 'exponential', 'linear matrix inequality', 'social inequality', 'varying delays'], '-> 2009', ['artificial neural network', 'biological neural networks', 'exponential', 'linear matrix inequality', 'social inequality', 'varying delays'], '-> 2010', ['artificial neural network', 'biological neural networks', 'exponential', 'linear matrix inequality', 'social inequality', 'varying delays'], '-> 2011', ['artificial neural network', 'biological neural networks', 'exponential', 'linear matrix inequality', 'social inequality', 'varying delays'], '-> 2012', ['artificial neural network', 'biological neural networks', 'exponential', 'linear matrix inequality', 'social inequality', 'varying delays'], '-> 2013', ['artificial neural network', 'biological neural networks', 'exponential', 'linear matrix inequality', 'social inequality', 'varying delays'], '-> 2014', ['artificial neural network', 'biological neural networks', 'exponential', 'linear matrix inequality', 'social inequality', 'varying delays'], '-> 2015', ['artificial neural network', 'biological neural networks', 'exponential', 'linear matrix inequality', 'social inequality', 'varying delays'], '-> 2016', ['artificial neural network', 'biological neural networks', 'exponential', 'linear matrix inequality', 'social inequality', 'varying delays'], '-> 2017', ['artificial neural network', 'biological neural networks', 'exponential', 'linear matrix inequality', 'social inequality', 'varying delays'], '-> 2018', ['artificial neural network', 'biological neural networks', 'exponential', 'linear matrix inequality', 'social inequality', 'varying delays']]
+Union of the topics of the chain into the Macro topic: {'timevarying delays', 'cohen–grossberg neural networks', 'neural network simulation', 'biological neural networks', 'exponential', 'linear matrix inequality', 'social inequality', 'artificial neural network', 'varying delays'}
 
  K = 100
-['2007', ['mathematical optimization', 'velocity software development'], '-> 2008', ['linear matrix inequality', 'mathematical optimization'], '-> 2009', ['linear matrix inequality', 'mathematical optimization'], '-> 2010', ['linear matrix inequality', 'mathematical optimization'], '-> 2011', ['linear matrix inequality', 'mathematical optimization'], '-> 2012', ['linear matrix inequality', 'mathematical optimization'], '-> 2013', ['linear matrix inequality', 'mathematical optimization'], '-> 2014', ['linear matrix inequality', 'mathematical optimization'], '-> 2015', ['linear matrix inequality', 'mathematical optimization'], '-> 2016', ['linear matrix inequality', 'mathematical optimization'], '-> 2017', ['linear matrix inequality', 'mathematical optimization'], '-> 2018', ['linear matrix inequality', 'mathematical optimization']]
-Union of the topics of the chain into the Macro topic: {'linear matrix inequality', 'velocity software development', 'mathematical optimization'}
+['2007', ['artificial neural network', 'cohen–grossberg neural networks', 'contentaddressable memory', 'linear matrix inequality', 'neural network simulation', 'social inequality'], '-> 2008', ['artificial neural network', 'biological neural networks', 'exponential', 'linear matrix inequality', 'social inequality', 'varying delays'], '-> 2009', ['artificial neural network', 'biological neural networks', 'exponential', 'linear matrix inequality', 'social inequality', 'varying delays'], '-> 2010', ['artificial neural network', 'biological neural networks', 'exponential', 'linear matrix inequality', 'social inequality', 'varying delays'], '-> 2011', ['artificial neural network', 'biological neural networks', 'exponential', 'linear matrix inequality', 'social inequality', 'varying delays'], '-> 2012', ['artificial neural network', 'biological neural networks', 'exponential', 'linear matrix inequality', 'social inequality', 'varying delays'], '-> 2013', ['artificial neural network', 'biological neural networks', 'exponential', 'linear matrix inequality', 'social inequality', 'varying delays'], '-> 2014', ['artificial neural network', 'biological neural networks', 'exponential', 'linear matrix inequality', 'social inequality', 'varying delays'], '-> 2015', ['artificial neural network', 'biological neural networks', 'exponential', 'linear matrix inequality', 'social inequality', 'varying delays'], '-> 2016', ['artificial neural network', 'biological neural networks', 'exponential', 'linear matrix inequality', 'social inequality', 'varying delays'], '-> 2017', ['artificial neural network', 'biological neural networks', 'exponential', 'linear matrix inequality', 'social inequality', 'varying delays'], '-> 2018', ['artificial neural network', 'biological neural networks', 'exponential', 'linear matrix inequality', 'social inequality', 'varying delays']]
+Union of the topics of the chain into the Macro topic: {'cohen–grossberg neural networks', 'neural network simulation', 'biological neural networks', 'exponential', 'contentaddressable memory', 'linear matrix inequality', 'social inequality', 'artificial neural network', 'varying delays'}
 
  ---------- YEAR 2008 ---------- 
 
@@ -219,37 +195,31 @@ Union of the topics of the chain into the Macro topic: {'linear matrix inequalit
 ['2008', ['cognitive radio'], '-> 2009', ['cognitive radio'], '-> 2010', ['cognitive radio'], '-> 2011', ['cognitive radio'], '-> 2012', ['cognitive radio'], '-> 2013', ['cognitive radio'], '-> 2014', ['cognitive radio'], '-> 2015', ['cognitive radio'], '-> 2016', ['cognitive radio'], '-> 2017', ['cognitive radio'], '-> 2018', ['cognitive radio']]
 
  K = 10
-['2008', ['cognitive radio', 'interference communication'], '-> 2009', ['cognitive radio'], '-> 2010', ['cognitive radio'], '-> 2011', ['cognitive radio'], '-> 2012', ['cognitive radio'], '-> 2013', ['cognitive radio'], '-> 2014', ['cognitive radio'], '-> 2015', ['cognitive radio'], '-> 2016', ['cognitive radio'], '-> 2017', ['cognitive radio'], '-> 2018', ['cognitive radio']]
-
- K = 20
-['2008', ['exponential stability', 'linear matrix inequality', 'unbounded distributed delays'], '-> 2009', ['linear matrix inequality'], '-> 2010', ['linear matrix inequality'], '-> 2011', ['linear matrix inequality'], '-> 2012', ['linear matrix inequality'], '-> 2013', ['linear matrix inequality'], '-> 2014', ['linear matrix inequality'], '-> 2015', ['linear matrix inequality'], '-> 2016', ['linear matrix inequality'], '-> 2017', ['linear matrix inequality'], '-> 2018', ['linear matrix inequality']]
-
- K = 20
 ['2008', ['cognitive radio'], '-> 2009', ['cognitive radio'], '-> 2010', ['cognitive radio'], '-> 2011', ['cognitive radio'], '-> 2012', ['cognitive radio'], '-> 2013', ['cognitive radio'], '-> 2014', ['cognitive radio'], '-> 2015', ['cognitive radio'], '-> 2016', ['cognitive radio'], '-> 2017', ['cognitive radio'], '-> 2018', ['cognitive radio']]
 
  K = 20
-['2008', ['social inequality'], '-> 2009', ['social inequality'], '-> 2010', ['social inequality'], '-> 2011', ['social inequality'], '-> 2012', ['social inequality'], '-> 2013', ['social inequality'], '-> 2014', ['social inequality'], '-> 2015', ['social inequality'], '-> 2016', ['social inequality'], '-> 2017', ['social inequality'], '-> 2018', ['social inequality']]
+['2008', ['global asymptotic stability', 'linear matrix inequality', 'unbounded distributed delays'], '-> 2009', ['linear matrix inequality'], '-> 2010', ['linear matrix inequality'], '-> 2011', ['linear matrix inequality'], '-> 2012', ['linear matrix inequality'], '-> 2013', ['linear matrix inequality'], '-> 2014', ['linear matrix inequality'], '-> 2015', ['linear matrix inequality'], '-> 2016', ['linear matrix inequality'], '-> 2017', ['linear matrix inequality'], '-> 2018', ['linear matrix inequality']]
+
+ K = 20
+['2008', ['cognitive radio', 'interference communication'], '-> 2009', ['cognitive radio'], '-> 2010', ['cognitive radio'], '-> 2011', ['cognitive radio'], '-> 2012', ['cognitive radio'], '-> 2013', ['cognitive radio'], '-> 2014', ['cognitive radio'], '-> 2015', ['cognitive radio'], '-> 2016', ['cognitive radio'], '-> 2017', ['cognitive radio'], '-> 2018', ['cognitive radio']]
+
+ K = 20
+['2008', ['artificial neural network', 'linear matrix inequality', 'lyapunov fractal'], '-> 2009', ['linear matrix inequality'], '-> 2010', ['linear matrix inequality'], '-> 2011', ['linear matrix inequality'], '-> 2012', ['linear matrix inequality'], '-> 2013', ['linear matrix inequality'], '-> 2014', ['linear matrix inequality'], '-> 2015', ['linear matrix inequality'], '-> 2016', ['linear matrix inequality'], '-> 2017', ['linear matrix inequality'], '-> 2018', ['linear matrix inequality']]
 
  K = 100
-['2008', ['social inequality'], '-> 2009', ['social inequality'], '-> 2010', ['social inequality'], '-> 2011', ['social inequality'], '-> 2012', ['social inequality'], '-> 2013', ['social inequality'], '-> 2014', ['social inequality'], '-> 2015', ['social inequality'], '-> 2016', ['social inequality'], '-> 2017', ['social inequality'], '-> 2018', ['social inequality']]
+['2008', ['linear matrix inequality'], '-> 2009', ['linear matrix inequality'], '-> 2010', ['linear matrix inequality'], '-> 2011', ['linear matrix inequality'], '-> 2012', ['linear matrix inequality'], '-> 2013', ['linear matrix inequality'], '-> 2014', ['linear matrix inequality'], '-> 2015', ['linear matrix inequality'], '-> 2016', ['linear matrix inequality'], '-> 2017', ['linear matrix inequality'], '-> 2018', ['linear matrix inequality']]
 
  K = 100
-['2008', ['artificial neural network'], '-> 2009', ['artificial neural network'], '-> 2010', ['artificial neural network'], '-> 2011', ['artificial neural network'], '-> 2012', ['artificial neural network'], '-> 2013', ['artificial neural network'], '-> 2014', ['artificial neural network'], '-> 2015', ['artificial neural network'], '-> 2016', ['artificial neural network'], '-> 2017', ['artificial neural network'], '-> 2018', ['artificial neural network']]
+['2008', ['algorithm'], '-> 2009', ['algorithm'], '-> 2010', ['algorithm'], '-> 2011', ['algorithm'], '-> 2012', ['algorithm'], '-> 2013', ['algorithm'], '-> 2014', ['algorithm'], '-> 2015', ['algorithm'], '-> 2016', ['algorithm'], '-> 2017', ['algorithm'], '-> 2018', ['algorithm']]
 
  K = 100
-['2008', ['lyapunov method'], '-> 2009', ['lyapunov method'], '-> 2010', ['lyapunov method'], '-> 2011', ['lyapunov method'], '-> 2012', ['lyapunov method'], '-> 2013', ['lyapunov method'], '-> 2014', ['lyapunov method'], '-> 2015', ['lyapunov method'], '-> 2016', ['lyapunov method'], '-> 2017', ['lyapunov method'], '-> 2018', ['lyapunov method']]
+['2008', ['advanced cross', 'lingual information access', 'paper presents', 'task cluster'], '-> 2009', ['paper presents'], '-> 2010', ['paper presents'], '-> 2011', ['paper presents'], '-> 2012', ['paper presents'], '-> 2013', ['paper presents'], '-> 2014', ['paper presents'], '-> 2015', ['paper presents'], '-> 2016', ['paper presents'], '-> 2017', ['paper presents'], '-> 2018', ['paper presents']]
 
  K = 100
 ['2008', ['advanced cross', 'lingual information access', 'paper presents', 'task cluster'], '-> 2009', ['paper presents'], '-> 2010', ['paper presents'], '-> 2011', ['paper presents'], '-> 2012', ['paper presents'], '-> 2013', ['paper presents'], '-> 2014', ['paper presents'], '-> 2015', ['paper presents'], '-> 2016', ['paper presents'], '-> 2017', ['paper presents'], '-> 2018', ['paper presents']]
 
  K = 100
 ['2008', ['advanced cross', 'lingual information access', 'paper presents', 'task cluster'], '-> 2009', ['paper presents'], '-> 2010', ['paper presents'], '-> 2011', ['paper presents'], '-> 2012', ['paper presents'], '-> 2013', ['paper presents'], '-> 2014', ['paper presents'], '-> 2015', ['paper presents'], '-> 2016', ['paper presents'], '-> 2017', ['paper presents'], '-> 2018', ['paper presents']]
-
- K = 100
-['2008', ['advanced cross', 'lingual information access', 'paper presents', 'task cluster'], '-> 2009', ['paper presents'], '-> 2010', ['paper presents'], '-> 2011', ['paper presents'], '-> 2012', ['paper presents'], '-> 2013', ['paper presents'], '-> 2014', ['paper presents'], '-> 2015', ['paper presents'], '-> 2016', ['paper presents'], '-> 2017', ['paper presents'], '-> 2018', ['paper presents']]
-
- K = 100
-['2008', ['neural networks'], '-> 2009', ['neural networks'], '-> 2010', ['neural networks'], '-> 2011', ['neural networks'], '-> 2012', ['neural networks'], '-> 2013', ['neural networks'], '-> 2014', ['neural networks'], '-> 2015', ['neural networks'], '-> 2016', ['neural networks'], '-> 2017', ['neural networks'], '-> 2018', ['neural networks']]
 
  K = 100
 ['2008', ['rate of convergence'], '-> 2009', ['global optimization', 'rate of convergence'], '-> 2010', ['global optimization', 'rate of convergence'], '-> 2011', ['global optimization', 'rate of convergence'], '-> 2012', ['global optimization', 'rate of convergence'], '-> 2013', ['global optimization', 'rate of convergence'], '-> 2014', ['global optimization', 'rate of convergence'], '-> 2015', ['global optimization', 'rate of convergence'], '-> 2016', ['global optimization', 'rate of convergence'], '-> 2017', ['global optimization', 'rate of convergence'], '-> 2018', ['global optimization', 'rate of convergence']]
@@ -260,13 +230,16 @@ Union of the topics of the chain into the Macro topic: {'global optimization', '
 
  K = 100
 ['2008', ['global optimization'], '-> 2009', ['global optimization', 'rate of convergence'], '-> 2010', ['global optimization', 'rate of convergence'], '-> 2011', ['global optimization', 'rate of convergence'], '-> 2012', ['global optimization', 'rate of convergence'], '-> 2013', ['global optimization', 'rate of convergence'], '-> 2014', ['global optimization', 'rate of convergence'], '-> 2015', ['global optimization', 'rate of convergence'], '-> 2016', ['global optimization', 'rate of convergence'], '-> 2017', ['global optimization', 'rate of convergence'], '-> 2018', ['global optimization', 'rate of convergence']]
-Union of the topics of the chain into the Macro topic: {'global optimization', 'rate of convergence'}
-
- K = 100
-['2008', ['linear matrix inequality', 'mathematical optimization'], '-> 2009', ['linear matrix inequality'], '-> 2010', ['linear matrix inequality'], '-> 2011', ['linear matrix inequality'], '-> 2012', ['linear matrix inequality'], '-> 2013', ['linear matrix inequality'], '-> 2014', ['linear matrix inequality'], '-> 2015', ['linear matrix inequality'], '-> 2016', ['linear matrix inequality'], '-> 2017', ['linear matrix inequality'], '-> 2018', ['linear matrix inequality']]
+Union of the topics of the chain into the Macro topic: {'rate of convergence', 'global optimization'}
 
  K = 100
 ['2008', ['cognitive radio', 'interference communication'], '-> 2009', ['interference communication'], '-> 2010', ['interference communication'], '-> 2011', ['interference communication'], '-> 2012', ['interference communication'], '-> 2013', ['interference communication'], '-> 2014', ['interference communication'], '-> 2015', ['interference communication'], '-> 2016', ['interference communication'], '-> 2017', ['interference communication'], '-> 2018', ['interference communication']]
+
+ K = 100
+['2008', ['neural networks', 'social inequality'], '-> 2009', ['neural networks'], '-> 2010', ['neural networks'], '-> 2011', ['neural networks'], '-> 2012', ['neural networks'], '-> 2013', ['neural networks'], '-> 2014', ['neural networks'], '-> 2015', ['neural networks'], '-> 2016', ['neural networks'], '-> 2017', ['neural networks'], '-> 2018', ['neural networks']]
+
+ K = 100
+['2008', ['lyapunov fractal', 'lyapunov method', 'mathematical optimization', 'social inequality'], '-> 2009', ['lyapunov method'], '-> 2010', ['lyapunov method'], '-> 2011', ['lyapunov method'], '-> 2012', ['lyapunov method'], '-> 2013', ['lyapunov method'], '-> 2014', ['lyapunov method'], '-> 2015', ['lyapunov method'], '-> 2016', ['lyapunov method'], '-> 2017', ['lyapunov method'], '-> 2018', ['lyapunov method']]
 
  K = 100
 ['2008', ['advanced cross', 'lingual information access', 'paper presents', 'task cluster'], '-> 2009', ['paper presents'], '-> 2010', ['paper presents'], '-> 2011', ['paper presents'], '-> 2012', ['paper presents'], '-> 2013', ['paper presents'], '-> 2014', ['paper presents'], '-> 2015', ['paper presents'], '-> 2016', ['paper presents'], '-> 2017', ['paper presents'], '-> 2018', ['paper presents']]
@@ -274,15 +247,11 @@ Union of the topics of the chain into the Macro topic: {'global optimization', '
  ---------- YEAR 2009 ---------- 
 
  K = 20
-['2009', ['linear matrix inequality'], '-> 2010', ['artificial neural network', 'linear matrix inequality', 'lyapunov–krasovskii functional', 'neutral type'], '-> 2011', ['artificial neural network', 'linear matrix inequality', 'lyapunov–krasovskii functional', 'neutral type'], '-> 2012', ['artificial neural network', 'linear matrix inequality', 'lyapunov–krasovskii functional', 'neutral type'], '-> 2013', ['artificial neural network', 'linear matrix inequality', 'lyapunov–krasovskii functional', 'neutral type'], '-> 2014', ['artificial neural network', 'linear matrix inequality', 'lyapunov–krasovskii functional', 'neutral type'], '-> 2015', ['artificial neural network', 'linear matrix inequality', 'lyapunov–krasovskii functional', 'neutral type'], '-> 2016', ['artificial neural network', 'linear matrix inequality', 'lyapunov–krasovskii functional', 'neutral type'], '-> 2017', ['artificial neural network', 'linear matrix inequality', 'lyapunov–krasovskii functional', 'neutral type'], '-> 2018', ['artificial neural network', 'linear matrix inequality', 'lyapunov–krasovskii functional', 'neutral type']]
-Union of the topics of the chain into the Macro topic: {'linear matrix inequality', 'artificial neural network', 'neutral type', 'lyapunov–krasovskii functional'}
+['2009', ['linear matrix inequality'], '-> 2010', ['artificial neural network', 'linear matrix inequality', 'lyapunov functional'], '-> 2011', ['artificial neural network', 'linear matrix inequality', 'lyapunov functional'], '-> 2012', ['artificial neural network', 'linear matrix inequality', 'lyapunov functional'], '-> 2013', ['artificial neural network', 'linear matrix inequality', 'lyapunov functional'], '-> 2014', ['artificial neural network', 'linear matrix inequality', 'lyapunov functional'], '-> 2015', ['artificial neural network', 'linear matrix inequality', 'lyapunov functional'], '-> 2016', ['artificial neural network', 'linear matrix inequality', 'lyapunov functional'], '-> 2017', ['artificial neural network', 'linear matrix inequality', 'lyapunov functional'], '-> 2018', ['artificial neural network', 'linear matrix inequality', 'lyapunov functional']]
+Union of the topics of the chain into the Macro topic: {'lyapunov functional', 'artificial neural network', 'linear matrix inequality'}
 
  K = 100
-['2009', ['evolutionary algorithm'], '-> 2010', ['evolutionary algorithm'], '-> 2011', ['evolutionary algorithm'], '-> 2012', ['evolutionary algorithm'], '-> 2013', ['evolutionary algorithm'], '-> 2014', ['evolutionary algorithm'], '-> 2015', ['evolutionary algorithm'], '-> 2016', ['evolutionary algorithm'], '-> 2017', ['evolutionary algorithm'], '-> 2018', ['evolutionary algorithm']]
-
- K = 100
-['2009', ['linear matrix inequality'], '-> 2010', ['linear matrix inequality', 'neutral type'], '-> 2011', ['linear matrix inequality', 'neutral type'], '-> 2012', ['linear matrix inequality', 'neutral type'], '-> 2013', ['linear matrix inequality', 'neutral type'], '-> 2014', ['linear matrix inequality', 'neutral type'], '-> 2015', ['linear matrix inequality', 'neutral type'], '-> 2016', ['linear matrix inequality', 'neutral type'], '-> 2017', ['linear matrix inequality', 'neutral type'], '-> 2018', ['linear matrix inequality', 'neutral type']]
-Union of the topics of the chain into the Macro topic: {'linear matrix inequality', 'neutral type'}
+['2009', ['linear matrix inequality'], '-> 2010', ['linear matrix inequality'], '-> 2011', ['linear matrix inequality'], '-> 2012', ['linear matrix inequality'], '-> 2013', ['linear matrix inequality'], '-> 2014', ['linear matrix inequality'], '-> 2015', ['linear matrix inequality'], '-> 2016', ['linear matrix inequality'], '-> 2017', ['linear matrix inequality'], '-> 2018', ['linear matrix inequality']]
 
  K = 100
 ['2009', ['social inequality'], '-> 2010', ['social inequality'], '-> 2011', ['social inequality'], '-> 2012', ['social inequality'], '-> 2013', ['social inequality'], '-> 2014', ['social inequality'], '-> 2015', ['social inequality'], '-> 2016', ['social inequality'], '-> 2017', ['social inequality'], '-> 2018', ['social inequality']]
@@ -296,10 +265,13 @@ Union of the topics of the chain into the Macro topic: {'linear matrix inequalit
  K = 100
 ['2009', ['neural networks'], '-> 2010', ['neural networks'], '-> 2011', ['neural networks'], '-> 2012', ['neural networks'], '-> 2013', ['neural networks'], '-> 2014', ['neural networks'], '-> 2015', ['neural networks'], '-> 2016', ['neural networks'], '-> 2017', ['neural networks'], '-> 2018', ['neural networks']]
 
- ---------- YEAR 2010 ---------- 
+ K = 100
+['2009', ['data mining\xa0', 'evolutionary algorithm', 'fuzzy rule'], '-> 2010', ['evolutionary algorithm'], '-> 2011', ['evolutionary algorithm'], '-> 2012', ['evolutionary algorithm'], '-> 2013', ['evolutionary algorithm'], '-> 2014', ['evolutionary algorithm'], '-> 2015', ['evolutionary algorithm'], '-> 2016', ['evolutionary algorithm'], '-> 2017', ['evolutionary algorithm'], '-> 2018', ['evolutionary algorithm']]
 
- K = 5
-['2010', ['linear matrix inequality', 'neutral type', 'social inequality'], '-> 2011', ['linear matrix inequality', 'social inequality'], '-> 2012', ['linear matrix inequality', 'social inequality'], '-> 2013', ['linear matrix inequality', 'social inequality'], '-> 2014', ['linear matrix inequality', 'social inequality'], '-> 2015', ['linear matrix inequality', 'social inequality'], '-> 2016', ['linear matrix inequality', 'social inequality'], '-> 2017', ['linear matrix inequality', 'social inequality'], '-> 2018', ['linear matrix inequality', 'social inequality']]
+ K = 100
+['2009', ['global optimization', 'rate of convergence'], '-> 2010', ['rate of convergence'], '-> 2011', ['rate of convergence'], '-> 2012', ['rate of convergence'], '-> 2013', ['rate of convergence'], '-> 2014', ['rate of convergence'], '-> 2015', ['rate of convergence'], '-> 2016', ['rate of convergence'], '-> 2017', ['rate of convergence'], '-> 2018', ['rate of convergence']]
+
+ ---------- YEAR 2010 ---------- 
 
  K = 20
 ['2010', ['simulation'], '-> 2011', ['simulation'], '-> 2012', ['simulation'], '-> 2013', ['simulation'], '-> 2014', ['simulation'], '-> 2015', ['simulation'], '-> 2016', ['simulation'], '-> 2017', ['simulation'], '-> 2018', ['simulation']]
@@ -308,14 +280,7 @@ Union of the topics of the chain into the Macro topic: {'linear matrix inequalit
 ['2010', ['genetic regulatory networks'], '-> 2011', ['genetic regulatory networks'], '-> 2012', ['genetic regulatory networks'], '-> 2013', ['genetic regulatory networks'], '-> 2014', ['genetic regulatory networks'], '-> 2015', ['genetic regulatory networks'], '-> 2016', ['genetic regulatory networks'], '-> 2017', ['genetic regulatory networks'], '-> 2018', ['genetic regulatory networks']]
 
  K = 100
-['2010', ['simulation'], '-> 2011', ['simulation'], '-> 2012', ['simulation'], '-> 2013', ['simulation'], '-> 2014', ['simulation'], '-> 2015', ['simulation'], '-> 2016', ['simulation'], '-> 2017', ['simulation'], '-> 2018', ['simulation']]
-
- K = 100
-['2010', ['centralized computing'], '-> 2011', ['centralized computing'], '-> 2012', ['centralized computing'], '-> 2013', ['centralized computing'], '-> 2014', ['centralized computing'], '-> 2015', ['centralized computing'], '-> 2016', ['centralized computing'], '-> 2017', ['centralized computing'], '-> 2018', ['centralized computing']]
-
- K = 100
-['2010', ['social inequality'], '-> 2011', ['exponential', 'social inequality'], '-> 2012', ['exponential', 'social inequality'], '-> 2013', ['exponential', 'social inequality'], '-> 2014', ['exponential', 'social inequality'], '-> 2015', ['exponential', 'social inequality'], '-> 2016', ['exponential', 'social inequality'], '-> 2017', ['exponential', 'social inequality'], '-> 2018', ['exponential', 'social inequality']]
-Union of the topics of the chain into the Macro topic: {'social inequality', 'exponential'}
+['2010', ['social inequality'], '-> 2011', ['social inequality'], '-> 2012', ['social inequality'], '-> 2013', ['social inequality'], '-> 2014', ['social inequality'], '-> 2015', ['social inequality'], '-> 2016', ['social inequality'], '-> 2017', ['social inequality'], '-> 2018', ['social inequality']]
 
  K = 100
 ['2010', ['gene regulatory network'], '-> 2011', ['gene regulatory network'], '-> 2012', ['gene regulatory network'], '-> 2013', ['gene regulatory network'], '-> 2014', ['gene regulatory network'], '-> 2015', ['gene regulatory network'], '-> 2016', ['gene regulatory network'], '-> 2017', ['gene regulatory network'], '-> 2018', ['gene regulatory network']]
@@ -324,57 +289,76 @@ Union of the topics of the chain into the Macro topic: {'social inequality', 'ex
 ['2010', ['time complexity'], '-> 2011', ['time complexity'], '-> 2012', ['time complexity'], '-> 2013', ['time complexity'], '-> 2014', ['time complexity'], '-> 2015', ['time complexity'], '-> 2016', ['time complexity'], '-> 2017', ['time complexity'], '-> 2018', ['time complexity']]
 
  K = 100
-['2010', ['machine learning'], '-> 2011', ['machine learning'], '-> 2012', ['machine learning'], '-> 2013', ['machine learning'], '-> 2014', ['machine learning'], '-> 2015', ['machine learning'], '-> 2016', ['machine learning'], '-> 2017', ['machine learning'], '-> 2018', ['machine learning']]
+['2010', ['mathematical optimization'], '-> 2011', ['mathematical optimization', 'plasmon', 'tree rearrangement'], '-> 2012', ['mathematical optimization', 'plasmon', 'tree rearrangement'], '-> 2013', ['mathematical optimization', 'plasmon', 'tree rearrangement'], '-> 2014', ['mathematical optimization', 'plasmon', 'tree rearrangement'], '-> 2015', ['mathematical optimization', 'plasmon', 'tree rearrangement'], '-> 2016', ['mathematical optimization', 'plasmon', 'tree rearrangement'], '-> 2017', ['mathematical optimization', 'plasmon', 'tree rearrangement'], '-> 2018', ['mathematical optimization', 'plasmon', 'tree rearrangement']]
+Union of the topics of the chain into the Macro topic: {'tree rearrangement', 'mathematical optimization', 'plasmon'}
 
  K = 100
-['2010', ['mathematical optimization'], '-> 2011', ['mathematical optimization', 'resonance'], '-> 2012', ['mathematical optimization', 'resonance'], '-> 2013', ['mathematical optimization', 'resonance'], '-> 2014', ['mathematical optimization', 'resonance'], '-> 2015', ['mathematical optimization', 'resonance'], '-> 2016', ['mathematical optimization', 'resonance'], '-> 2017', ['mathematical optimization', 'resonance'], '-> 2018', ['mathematical optimization', 'resonance']]
-Union of the topics of the chain into the Macro topic: {'resonance', 'mathematical optimization'}
-
- K = 100
-['2010', ['numerical analysis'], '-> 2011', ['linear matrix inequality', 'neural network simulation', 'numerical analysis', 'stochastic neural network'], '-> 2012', ['linear matrix inequality', 'neural network simulation', 'numerical analysis', 'stochastic neural network'], '-> 2013', ['linear matrix inequality', 'neural network simulation', 'numerical analysis', 'stochastic neural network'], '-> 2014', ['linear matrix inequality', 'neural network simulation', 'numerical analysis', 'stochastic neural network'], '-> 2015', ['linear matrix inequality', 'neural network simulation', 'numerical analysis', 'stochastic neural network'], '-> 2016', ['linear matrix inequality', 'neural network simulation', 'numerical analysis', 'stochastic neural network'], '-> 2017', ['linear matrix inequality', 'neural network simulation', 'numerical analysis', 'stochastic neural network'], '-> 2018', ['linear matrix inequality', 'neural network simulation', 'numerical analysis', 'stochastic neural network']]
-Union of the topics of the chain into the Macro topic: {'linear matrix inequality', 'neural network simulation', 'numerical analysis', 'stochastic neural network'}
+['2010', ['numerical analysis'], '-> 2011', ['numerical analysis'], '-> 2012', ['numerical analysis'], '-> 2013', ['numerical analysis'], '-> 2014', ['numerical analysis'], '-> 2015', ['numerical analysis'], '-> 2016', ['numerical analysis'], '-> 2017', ['numerical analysis'], '-> 2018', ['numerical analysis']]
 
  K = 100
 ['2010', ['channel capacity'], '-> 2011', ['channel capacity'], '-> 2012', ['channel capacity'], '-> 2013', ['channel capacity'], '-> 2014', ['channel capacity'], '-> 2015', ['channel capacity'], '-> 2016', ['channel capacity'], '-> 2017', ['channel capacity'], '-> 2018', ['channel capacity']]
 
+ K = 100
+['2010', ['particle swarm optimization'], '-> 2011', ['differential evolution', 'mathematical optimization', 'particle swarm optimization', 'resonance'], '-> 2012', ['differential evolution', 'mathematical optimization', 'particle swarm optimization', 'resonance'], '-> 2013', ['differential evolution', 'mathematical optimization', 'particle swarm optimization', 'resonance'], '-> 2014', ['differential evolution', 'mathematical optimization', 'particle swarm optimization', 'resonance'], '-> 2015', ['differential evolution', 'mathematical optimization', 'particle swarm optimization', 'resonance'], '-> 2016', ['differential evolution', 'mathematical optimization', 'particle swarm optimization', 'resonance'], '-> 2017', ['differential evolution', 'mathematical optimization', 'particle swarm optimization', 'resonance'], '-> 2018', ['differential evolution', 'mathematical optimization', 'particle swarm optimization', 'resonance']]
+Union of the topics of the chain into the Macro topic: {'differential evolution', 'particle swarm optimization', 'mathematical optimization', 'resonance'}
+
+ K = 100
+['2010', ['data mining', 'machine learning'], '-> 2011', ['machine learning'], '-> 2012', ['machine learning'], '-> 2013', ['machine learning'], '-> 2014', ['machine learning'], '-> 2015', ['machine learning'], '-> 2016', ['machine learning'], '-> 2017', ['machine learning'], '-> 2018', ['machine learning']]
+
  ---------- YEAR 2011 ---------- 
 
  K = 10
-['2011', ['interference communication', 'simulation'], '-> 2012', ['interference communication'], '-> 2013', ['interference communication'], '-> 2014', ['interference communication'], '-> 2015', ['interference communication'], '-> 2016', ['interference communication'], '-> 2017', ['interference communication'], '-> 2018', ['interference communication']]
+['2011', ['interference communication'], '-> 2012', ['interference communication', 'reinforcement learning', 'telecommunications link'], '-> 2013', ['interference communication', 'reinforcement learning', 'telecommunications link'], '-> 2014', ['interference communication', 'reinforcement learning', 'telecommunications link'], '-> 2015', ['interference communication', 'reinforcement learning', 'telecommunications link'], '-> 2016', ['interference communication', 'reinforcement learning', 'telecommunications link'], '-> 2017', ['interference communication', 'reinforcement learning', 'telecommunications link'], '-> 2018', ['interference communication', 'reinforcement learning', 'telecommunications link']]
+Union of the topics of the chain into the Macro topic: {'telecommunications link', 'interference communication', 'reinforcement learning'}
 
  K = 10
-['2011', ['cognitive radio'], '-> 2012', ['cognitive radio'], '-> 2013', ['cognitive radio'], '-> 2014', ['cognitive radio'], '-> 2015', ['cognitive radio'], '-> 2016', ['cognitive radio'], '-> 2017', ['cognitive radio'], '-> 2018', ['cognitive radio']]
+['2011', ['cognitive radio', 'reinforcement learning'], '-> 2012', ['cognition', 'cognitive radio'], '-> 2013', ['cognition', 'cognitive radio'], '-> 2014', ['cognition', 'cognitive radio'], '-> 2015', ['cognition', 'cognitive radio'], '-> 2016', ['cognition', 'cognitive radio'], '-> 2017', ['cognition', 'cognitive radio'], '-> 2018', ['cognition', 'cognitive radio']]
+Union of the topics of the chain into the Macro topic: {'cognition', 'cognitive radio', 'reinforcement learning'}
 
  K = 20
-['2011', ['algorithm'], '-> 2012', ['algorithm'], '-> 2013', ['algorithm'], '-> 2014', ['algorithm'], '-> 2015', ['algorithm'], '-> 2016', ['algorithm'], '-> 2017', ['algorithm'], '-> 2018', ['algorithm']]
+['2011', ['interference communication'], '-> 2012', ['coexist image', 'interference communication', 'telecommunications link'], '-> 2013', ['coexist image', 'interference communication', 'telecommunications link'], '-> 2014', ['coexist image', 'interference communication', 'telecommunications link'], '-> 2015', ['coexist image', 'interference communication', 'telecommunications link'], '-> 2016', ['coexist image', 'interference communication', 'telecommunications link'], '-> 2017', ['coexist image', 'interference communication', 'telecommunications link'], '-> 2018', ['coexist image', 'interference communication', 'telecommunications link']]
+Union of the topics of the chain into the Macro topic: {'telecommunications link', 'interference communication', 'coexist image'}
+
+ K = 20
+['2011', ['algorithm'], '-> 2012', ['algorithm', 'autonomous robot', 'simulation', 'telecommunications link'], '-> 2013', ['algorithm', 'autonomous robot', 'simulation', 'telecommunications link'], '-> 2014', ['algorithm', 'autonomous robot', 'simulation', 'telecommunications link'], '-> 2015', ['algorithm', 'autonomous robot', 'simulation', 'telecommunications link'], '-> 2016', ['algorithm', 'autonomous robot', 'simulation', 'telecommunications link'], '-> 2017', ['algorithm', 'autonomous robot', 'simulation', 'telecommunications link'], '-> 2018', ['algorithm', 'autonomous robot', 'simulation', 'telecommunications link']]
+Union of the topics of the chain into the Macro topic: {'telecommunications link', 'autonomous robot', 'simulation', 'algorithm'}
+
+ K = 20
+['2011', ['simulation'], '-> 2012', ['cognition', 'simulation', 'software deployment'], '-> 2013', ['cognition', 'simulation', 'software deployment'], '-> 2014', ['cognition', 'simulation', 'software deployment'], '-> 2015', ['cognition', 'simulation', 'software deployment'], '-> 2016', ['cognition', 'simulation', 'software deployment'], '-> 2017', ['cognition', 'simulation', 'software deployment'], '-> 2018', ['cognition', 'simulation', 'software deployment']]
+Union of the topics of the chain into the Macro topic: {'software deployment', 'cognition', 'simulation'}
 
  K = 100
-['2011', ['interference communication'], '-> 2012', ['cognitive radio', 'interference communication', 'telecommunications link'], '-> 2013', ['cognitive radio', 'interference communication', 'telecommunications link'], '-> 2014', ['cognitive radio', 'interference communication', 'telecommunications link'], '-> 2015', ['cognitive radio', 'interference communication', 'telecommunications link'], '-> 2016', ['cognitive radio', 'interference communication', 'telecommunications link'], '-> 2017', ['cognitive radio', 'interference communication', 'telecommunications link'], '-> 2018', ['cognitive radio', 'interference communication', 'telecommunications link']]
-Union of the topics of the chain into the Macro topic: {'cognitive radio', 'interference communication', 'telecommunications link'}
+['2011', ['interference communication'], '-> 2012', ['coexist image', 'interference communication', 'telecommunications link'], '-> 2013', ['coexist image', 'interference communication', 'telecommunications link'], '-> 2014', ['coexist image', 'interference communication', 'telecommunications link'], '-> 2015', ['coexist image', 'interference communication', 'telecommunications link'], '-> 2016', ['coexist image', 'interference communication', 'telecommunications link'], '-> 2017', ['coexist image', 'interference communication', 'telecommunications link'], '-> 2018', ['coexist image', 'interference communication', 'telecommunications link']]
+Union of the topics of the chain into the Macro topic: {'telecommunications link', 'interference communication', 'coexist image'}
 
  K = 100
-['2011', ['cognitive radio'], '-> 2012', ['cognitive radio', 'interference communication', 'telecommunications link'], '-> 2013', ['cognitive radio', 'interference communication', 'telecommunications link'], '-> 2014', ['cognitive radio', 'interference communication', 'telecommunications link'], '-> 2015', ['cognitive radio', 'interference communication', 'telecommunications link'], '-> 2016', ['cognitive radio', 'interference communication', 'telecommunications link'], '-> 2017', ['cognitive radio', 'interference communication', 'telecommunications link'], '-> 2018', ['cognitive radio', 'interference communication', 'telecommunications link']]
-Union of the topics of the chain into the Macro topic: {'cognitive radio', 'interference communication', 'telecommunications link'}
+['2011', ['cognitive radio'], '-> 2012', ['algorithm', 'cognition', 'cognitive radio'], '-> 2013', ['algorithm', 'cognition', 'cognitive radio'], '-> 2014', ['algorithm', 'cognition', 'cognitive radio'], '-> 2015', ['algorithm', 'cognition', 'cognitive radio'], '-> 2016', ['algorithm', 'cognition', 'cognitive radio'], '-> 2017', ['algorithm', 'cognition', 'cognitive radio'], '-> 2018', ['algorithm', 'cognition', 'cognitive radio']]
+Union of the topics of the chain into the Macro topic: {'cognition', 'cognitive radio', 'algorithm'}
 
  K = 100
-['2011', ['algorithm'], '-> 2012', ['algorithm', 'autonomous robot', 'qlearning', 'receiver operating characteristic'], '-> 2013', ['algorithm', 'autonomous robot', 'qlearning', 'receiver operating characteristic'], '-> 2014', ['algorithm', 'autonomous robot', 'qlearning', 'receiver operating characteristic'], '-> 2015', ['algorithm', 'autonomous robot', 'qlearning', 'receiver operating characteristic'], '-> 2016', ['algorithm', 'autonomous robot', 'qlearning', 'receiver operating characteristic'], '-> 2017', ['algorithm', 'autonomous robot', 'qlearning', 'receiver operating characteristic'], '-> 2018', ['algorithm', 'autonomous robot', 'qlearning', 'receiver operating characteristic']]
-Union of the topics of the chain into the Macro topic: {'receiver operating characteristic', 'autonomous robot', 'qlearning', 'algorithm'}
+['2011', ['algorithm'], '-> 2012', ['algorithm', 'cognition', 'cognitive radio'], '-> 2013', ['algorithm', 'cognition', 'cognitive radio'], '-> 2014', ['algorithm', 'cognition', 'cognitive radio'], '-> 2015', ['algorithm', 'cognition', 'cognitive radio'], '-> 2016', ['algorithm', 'cognition', 'cognitive radio'], '-> 2017', ['algorithm', 'cognition', 'cognitive radio'], '-> 2018', ['algorithm', 'cognition', 'cognitive radio']]
+Union of the topics of the chain into the Macro topic: {'cognitive radio', 'cognition', 'algorithm'}
 
  K = 100
-['2011', ['simulation'], '-> 2012', ['coexist image', 'interference communication', 'simulation', 'telecommunications link'], '-> 2013', ['coexist image', 'interference communication', 'simulation', 'telecommunications link'], '-> 2014', ['coexist image', 'interference communication', 'simulation', 'telecommunications link'], '-> 2015', ['coexist image', 'interference communication', 'simulation', 'telecommunications link'], '-> 2016', ['coexist image', 'interference communication', 'simulation', 'telecommunications link'], '-> 2017', ['coexist image', 'interference communication', 'simulation', 'telecommunications link'], '-> 2018', ['coexist image', 'interference communication', 'simulation', 'telecommunications link']]
-Union of the topics of the chain into the Macro topic: {'interference communication', 'simulation', 'coexist image', 'telecommunications link'}
+['2011', ['simulation'], '-> 2012', ['simulation', 'software deployment', 'telecommunications link'], '-> 2013', ['simulation', 'software deployment', 'telecommunications link'], '-> 2014', ['simulation', 'software deployment', 'telecommunications link'], '-> 2015', ['simulation', 'software deployment', 'telecommunications link'], '-> 2016', ['simulation', 'software deployment', 'telecommunications link'], '-> 2017', ['simulation', 'software deployment', 'telecommunications link'], '-> 2018', ['simulation', 'software deployment', 'telecommunications link']]
+Union of the topics of the chain into the Macro topic: {'telecommunications link', 'software deployment', 'simulation'}
 
  K = 100
-['2011', ['telecommunications link'], '-> 2012', ['cognitive radio', 'interference communication', 'telecommunications link'], '-> 2013', ['cognitive radio', 'interference communication', 'telecommunications link'], '-> 2014', ['cognitive radio', 'interference communication', 'telecommunications link'], '-> 2015', ['cognitive radio', 'interference communication', 'telecommunications link'], '-> 2016', ['cognitive radio', 'interference communication', 'telecommunications link'], '-> 2017', ['cognitive radio', 'interference communication', 'telecommunications link'], '-> 2018', ['cognitive radio', 'interference communication', 'telecommunications link']]
-Union of the topics of the chain into the Macro topic: {'cognitive radio', 'telecommunications link', 'interference communication'}
+['2011', ['numerical analysis'], '-> 2012', ['numerical analysis'], '-> 2013', ['numerical analysis'], '-> 2014', ['numerical analysis'], '-> 2015', ['numerical analysis'], '-> 2016', ['numerical analysis'], '-> 2017', ['numerical analysis'], '-> 2018', ['numerical analysis']]
 
  K = 100
-['2011', ['reinforcement learning'], '-> 2012', ['coexist image', 'reinforcement learning'], '-> 2013', ['coexist image', 'reinforcement learning'], '-> 2014', ['coexist image', 'reinforcement learning'], '-> 2015', ['coexist image', 'reinforcement learning'], '-> 2016', ['coexist image', 'reinforcement learning'], '-> 2017', ['coexist image', 'reinforcement learning'], '-> 2018', ['coexist image', 'reinforcement learning']]
-Union of the topics of the chain into the Macro topic: {'coexist image', 'reinforcement learning'}
+['2011', ['social inequality'], '-> 2012', ['social inequality'], '-> 2013', ['social inequality'], '-> 2014', ['social inequality'], '-> 2015', ['social inequality'], '-> 2016', ['social inequality'], '-> 2017', ['social inequality'], '-> 2018', ['social inequality']]
 
  K = 100
-['2011', ['autonomous robot'], '-> 2012', ['algorithm', 'autonomous robot', 'qlearning', 'receiver operating characteristic'], '-> 2013', ['algorithm', 'autonomous robot', 'qlearning', 'receiver operating characteristic'], '-> 2014', ['algorithm', 'autonomous robot', 'qlearning', 'receiver operating characteristic'], '-> 2015', ['algorithm', 'autonomous robot', 'qlearning', 'receiver operating characteristic'], '-> 2016', ['algorithm', 'autonomous robot', 'qlearning', 'receiver operating characteristic'], '-> 2017', ['algorithm', 'autonomous robot', 'qlearning', 'receiver operating characteristic'], '-> 2018', ['algorithm', 'autonomous robot', 'qlearning', 'receiver operating characteristic']]
-Union of the topics of the chain into the Macro topic: {'receiver operating characteristic', 'autonomous robot', 'qlearning', 'algorithm'}
+['2011', ['telecommunications link'], '-> 2012', ['coexist image', 'interference communication', 'telecommunications link'], '-> 2013', ['coexist image', 'interference communication', 'telecommunications link'], '-> 2014', ['coexist image', 'interference communication', 'telecommunications link'], '-> 2015', ['coexist image', 'interference communication', 'telecommunications link'], '-> 2016', ['coexist image', 'interference communication', 'telecommunications link'], '-> 2017', ['coexist image', 'interference communication', 'telecommunications link'], '-> 2018', ['coexist image', 'interference communication', 'telecommunications link']]
+Union of the topics of the chain into the Macro topic: {'telecommunications link', 'interference communication', 'coexist image'}
+
+ K = 100
+['2011', ['reinforcement learning'], '-> 2012', ['reinforcement learning'], '-> 2013', ['reinforcement learning'], '-> 2014', ['reinforcement learning'], '-> 2015', ['reinforcement learning'], '-> 2016', ['reinforcement learning'], '-> 2017', ['reinforcement learning'], '-> 2018', ['reinforcement learning']]
+
+ K = 100
+['2011', ['autonomous robot'], '-> 2012', ['autonomous robot', 'radio frequency'], '-> 2013', ['autonomous robot', 'radio frequency'], '-> 2014', ['autonomous robot', 'radio frequency'], '-> 2015', ['autonomous robot', 'radio frequency'], '-> 2016', ['autonomous robot', 'radio frequency'], '-> 2017', ['autonomous robot', 'radio frequency'], '-> 2018', ['autonomous robot', 'radio frequency']]
+Union of the topics of the chain into the Macro topic: {'radio frequency', 'autonomous robot'}
 
  K = 100
 ['2011', ['time complexity'], '-> 2012', ['time complexity'], '-> 2013', ['time complexity'], '-> 2014', ['time complexity'], '-> 2015', ['time complexity'], '-> 2016', ['time complexity'], '-> 2017', ['time complexity'], '-> 2018', ['time complexity']]
@@ -383,81 +367,106 @@ Union of the topics of the chain into the Macro topic: {'receiver operating char
 ['2011', ['signaltointerferenceplusnoise ratio'], '-> 2012', ['signaltointerferenceplusnoise ratio'], '-> 2013', ['signaltointerferenceplusnoise ratio'], '-> 2014', ['signaltointerferenceplusnoise ratio'], '-> 2015', ['signaltointerferenceplusnoise ratio'], '-> 2016', ['signaltointerferenceplusnoise ratio'], '-> 2017', ['signaltointerferenceplusnoise ratio'], '-> 2018', ['signaltointerferenceplusnoise ratio']]
 
  K = 100
-['2011', ['software deployment'], '-> 2012', ['software deployment'], '-> 2013', ['software deployment'], '-> 2014', ['software deployment'], '-> 2015', ['software deployment'], '-> 2016', ['software deployment'], '-> 2017', ['software deployment'], '-> 2018', ['software deployment']]
+['2011', ['software deployment'], '-> 2012', ['simulation', 'software deployment', 'telecommunications link'], '-> 2013', ['simulation', 'software deployment', 'telecommunications link'], '-> 2014', ['simulation', 'software deployment', 'telecommunications link'], '-> 2015', ['simulation', 'software deployment', 'telecommunications link'], '-> 2016', ['simulation', 'software deployment', 'telecommunications link'], '-> 2017', ['simulation', 'software deployment', 'telecommunications link'], '-> 2018', ['simulation', 'software deployment', 'telecommunications link']]
+Union of the topics of the chain into the Macro topic: {'telecommunications link', 'software deployment', 'simulation'}
 
  K = 100
 ['2011', ['machine learning'], '-> 2012', ['machine learning'], '-> 2013', ['machine learning'], '-> 2014', ['machine learning'], '-> 2015', ['machine learning'], '-> 2016', ['machine learning'], '-> 2017', ['machine learning'], '-> 2018', ['machine learning']]
 
  K = 100
-['2011', ['linear matrix inequality', 'neural network simulation', 'numerical analysis', 'stochastic neural network'], '-> 2012', ['linear matrix inequality'], '-> 2013', ['linear matrix inequality'], '-> 2014', ['linear matrix inequality'], '-> 2015', ['linear matrix inequality'], '-> 2016', ['linear matrix inequality'], '-> 2017', ['linear matrix inequality'], '-> 2018', ['linear matrix inequality']]
-
- K = 100
-['2011', ['exponential', 'social inequality'], '-> 2012', ['social inequality'], '-> 2013', ['social inequality'], '-> 2014', ['social inequality'], '-> 2015', ['social inequality'], '-> 2016', ['social inequality'], '-> 2017', ['social inequality'], '-> 2018', ['social inequality']]
+['2011', ['differential evolution', 'mathematical optimization', 'particle swarm optimization', 'resonance'], '-> 2012', ['particle swarm optimization'], '-> 2013', ['particle swarm optimization'], '-> 2014', ['particle swarm optimization'], '-> 2015', ['particle swarm optimization'], '-> 2016', ['particle swarm optimization'], '-> 2017', ['particle swarm optimization'], '-> 2018', ['particle swarm optimization']]
 
  ---------- YEAR 2012 ---------- 
 
- K = 20
-['2012', ['algorithm'], '-> 2013', ['algorithm'], '-> 2014', ['algorithm'], '-> 2015', ['algorithm'], '-> 2016', ['algorithm'], '-> 2017', ['algorithm'], '-> 2018', ['algorithm']]
+ K = 10
+['2012', ['artificial neural network', 'neural network simulation', 'sampling  surgical action', 'sampling signal processing', 'synchronization computer science'], '-> 2013', ['algorithm', 'artificial neural network', 'experiment', 'mathematical optimization', 'particle swarm optimization', 'sampling  surgical action', 'sampling signal processing'], '-> 2014', ['algorithm', 'artificial neural network', 'experiment', 'mathematical optimization', 'particle swarm optimization', 'sampling  surgical action', 'sampling signal processing'], '-> 2015', ['algorithm', 'artificial neural network', 'experiment', 'mathematical optimization', 'particle swarm optimization', 'sampling  surgical action', 'sampling signal processing'], '-> 2016', ['algorithm', 'artificial neural network', 'experiment', 'mathematical optimization', 'particle swarm optimization', 'sampling  surgical action', 'sampling signal processing'], '-> 2017', ['algorithm', 'artificial neural network', 'experiment', 'mathematical optimization', 'particle swarm optimization', 'sampling  surgical action', 'sampling signal processing'], '-> 2018', ['algorithm', 'artificial neural network', 'experiment', 'mathematical optimization', 'particle swarm optimization', 'sampling  surgical action', 'sampling signal processing']]
+Union of the topics of the chain into the Macro topic: {'particle swarm optimization', 'neural network simulation', 'experiment', 'sampling signal processing', 'synchronization computer science', 'sampling  surgical action', 'artificial neural network', 'mathematical optimization', 'algorithm'}
 
  K = 20
-['2012', ['artificial neural network', 'neural network simulation', 'recurrent neural network', 'sampling  surgical action', 'sampling signal processing', 'synchronization computer science'], '-> 2013', ['artificial neural network', 'data synchronization', 'experiment', 'linear matrix inequality', 'lyapunov fractal', 'neural network simulation', 'sampling  surgical action', 'sampling signal processing', 'simulation', 'vertex'], '-> 2014', ['artificial neural network', 'data synchronization', 'experiment', 'linear matrix inequality', 'lyapunov fractal', 'neural network simulation', 'sampling  surgical action', 'sampling signal processing', 'simulation', 'vertex'], '-> 2015', ['artificial neural network', 'data synchronization', 'experiment', 'linear matrix inequality', 'lyapunov fractal', 'neural network simulation', 'sampling  surgical action', 'sampling signal processing', 'simulation', 'vertex'], '-> 2016', ['artificial neural network', 'data synchronization', 'experiment', 'linear matrix inequality', 'lyapunov fractal', 'neural network simulation', 'sampling  surgical action', 'sampling signal processing', 'simulation', 'vertex'], '-> 2017', ['artificial neural network', 'data synchronization', 'experiment', 'linear matrix inequality', 'lyapunov fractal', 'neural network simulation', 'sampling  surgical action', 'sampling signal processing', 'simulation', 'vertex'], '-> 2018', ['artificial neural network', 'data synchronization', 'experiment', 'linear matrix inequality', 'lyapunov fractal', 'neural network simulation', 'sampling  surgical action', 'sampling signal processing', 'simulation', 'vertex']]
-Union of the topics of the chain into the Macro topic: {'linear matrix inequality', 'simulation', 'lyapunov fractal', 'vertex', 'neural network simulation', 'artificial neural network', 'sampling  surgical action', 'sampling signal processing', 'experiment', 'data synchronization', 'synchronization computer science', 'recurrent neural network'}
+['2012', ['sampling signal processing', 'synchronization computer science'], '-> 2013', ['synchronization computer science'], '-> 2014', ['synchronization computer science'], '-> 2015', ['synchronization computer science'], '-> 2016', ['synchronization computer science'], '-> 2017', ['synchronization computer science'], '-> 2018', ['synchronization computer science']]
 
  K = 20
-['2012', ['artificial neural network', 'neural network simulation', 'overfitting', 'sampling  surgical action', 'sampling signal processing', 'synchronization computer science'], '-> 2013', ['artificial neural network', 'data synchronization', 'experiment', 'linear matrix inequality', 'lyapunov fractal', 'neural network simulation', 'sampling  surgical action', 'sampling signal processing', 'simulation', 'vertex'], '-> 2014', ['artificial neural network', 'data synchronization', 'experiment', 'linear matrix inequality', 'lyapunov fractal', 'neural network simulation', 'sampling  surgical action', 'sampling signal processing', 'simulation', 'vertex'], '-> 2015', ['artificial neural network', 'data synchronization', 'experiment', 'linear matrix inequality', 'lyapunov fractal', 'neural network simulation', 'sampling  surgical action', 'sampling signal processing', 'simulation', 'vertex'], '-> 2016', ['artificial neural network', 'data synchronization', 'experiment', 'linear matrix inequality', 'lyapunov fractal', 'neural network simulation', 'sampling  surgical action', 'sampling signal processing', 'simulation', 'vertex'], '-> 2017', ['artificial neural network', 'data synchronization', 'experiment', 'linear matrix inequality', 'lyapunov fractal', 'neural network simulation', 'sampling  surgical action', 'sampling signal processing', 'simulation', 'vertex'], '-> 2018', ['artificial neural network', 'data synchronization', 'experiment', 'linear matrix inequality', 'lyapunov fractal', 'neural network simulation', 'sampling  surgical action', 'sampling signal processing', 'simulation', 'vertex']]
-Union of the topics of the chain into the Macro topic: {'linear matrix inequality', 'simulation', 'lyapunov fractal', 'vertex', 'neural network simulation', 'overfitting', 'artificial neural network', 'sampling  surgical action', 'sampling signal processing', 'experiment', 'data synchronization', 'synchronization computer science'}
+['2012', ['algorithm', 'autonomous robot', 'class', 'cognition', 'cognitive radio', 'cyclostationary process', 'deep learning', 'interference communication', 'machine learning', 'mathematical optimization', 'radio frequency', 'receiver operating characteristic', 'simulation'], '-> 2013', ['algorithm', 'cognitive radio', 'deep learning', 'hybrid optimization', 'machine learning', 'mathematical optimization', 'sampling signal processing'], '-> 2014', ['algorithm', 'cognitive radio', 'deep learning', 'hybrid optimization', 'machine learning', 'mathematical optimization', 'sampling signal processing'], '-> 2015', ['algorithm', 'cognitive radio', 'deep learning', 'hybrid optimization', 'machine learning', 'mathematical optimization', 'sampling signal processing'], '-> 2016', ['algorithm', 'cognitive radio', 'deep learning', 'hybrid optimization', 'machine learning', 'mathematical optimization', 'sampling signal processing'], '-> 2017', ['algorithm', 'cognitive radio', 'deep learning', 'hybrid optimization', 'machine learning', 'mathematical optimization', 'sampling signal processing'], '-> 2018', ['algorithm', 'cognitive radio', 'deep learning', 'hybrid optimization', 'machine learning', 'mathematical optimization', 'sampling signal processing']]
+Union of the topics of the chain into the Macro topic: {'hybrid optimization', 'cyclostationary process', 'machine learning', 'class', 'interference communication', 'radio frequency', 'sampling signal processing', 'deep learning', 'cognition', 'mathematical optimization', 'simulation', 'cognitive radio', 'receiver operating characteristic', 'autonomous robot', 'algorithm'}
+
+ K = 100
+['2012', ['neural network simulation'], '-> 2013', ['neural network simulation'], '-> 2014', ['neural network simulation'], '-> 2015', ['neural network simulation'], '-> 2016', ['neural network simulation'], '-> 2017', ['neural network simulation'], '-> 2018', ['neural network simulation']]
 
  K = 100
 ['2012', ['randomness'], '-> 2013', ['randomness'], '-> 2014', ['randomness'], '-> 2015', ['randomness'], '-> 2016', ['randomness'], '-> 2017', ['randomness'], '-> 2018', ['randomness']]
 
  K = 100
+['2012', ['social inequality'], '-> 2013', ['social inequality'], '-> 2014', ['social inequality'], '-> 2015', ['social inequality'], '-> 2016', ['social inequality'], '-> 2017', ['social inequality'], '-> 2018', ['social inequality']]
+
+ K = 100
 ['2012', ['linear matrix inequality'], '-> 2013', ['linear matrix inequality'], '-> 2014', ['linear matrix inequality'], '-> 2015', ['linear matrix inequality'], '-> 2016', ['linear matrix inequality'], '-> 2017', ['linear matrix inequality'], '-> 2018', ['linear matrix inequality']]
 
  K = 100
-['2012', ['artificial neural network', 'dropout neural networks', 'neural network simulation'], '-> 2013', ['neural network simulation'], '-> 2014', ['neural network simulation'], '-> 2015', ['neural network simulation'], '-> 2016', ['neural network simulation'], '-> 2017', ['neural network simulation'], '-> 2018', ['neural network simulation']]
+['2012', ['simulation', 'software deployment', 'telecommunications link'], '-> 2013', ['telecommunications link'], '-> 2014', ['telecommunications link'], '-> 2015', ['telecommunications link'], '-> 2016', ['telecommunications link'], '-> 2017', ['telecommunications link'], '-> 2018', ['telecommunications link']]
+
+ K = 100
+['2012', ['algorithm', 'cognition', 'cognitive radio'], '-> 2013', ['algorithm'], '-> 2014', ['algorithm'], '-> 2015', ['algorithm'], '-> 2016', ['algorithm'], '-> 2017', ['algorithm'], '-> 2018', ['algorithm']]
+
+ K = 100
+['2012', ['coexist image', 'interference communication', 'telecommunications link'], '-> 2013', ['telecommunications link'], '-> 2014', ['telecommunications link'], '-> 2015', ['telecommunications link'], '-> 2016', ['telecommunications link'], '-> 2017', ['telecommunications link'], '-> 2018', ['telecommunications link']]
 
  ---------- YEAR 2013 ---------- 
 
- K = 5
-['2013', ['mathematical optimization'], '-> 2014', ['http public key pinning', 'mathematical optimization', 'rate of convergence', 'velocity software development'], '-> 2015', ['http public key pinning', 'mathematical optimization', 'rate of convergence', 'velocity software development'], '-> 2016', ['http public key pinning', 'mathematical optimization', 'rate of convergence', 'velocity software development'], '-> 2017', ['http public key pinning', 'mathematical optimization', 'rate of convergence', 'velocity software development'], '-> 2018', ['http public key pinning', 'mathematical optimization', 'rate of convergence', 'velocity software development']]
-Union of the topics of the chain into the Macro topic: {'http public key pinning', 'velocity software development', 'rate of convergence', 'mathematical optimization'}
+ K = 10
+['2013', ['approximation algorithm', 'iteration', 'selforganization', 'simulation'], '-> 2014', ['approximation algorithm'], '-> 2015', ['approximation algorithm'], '-> 2016', ['approximation algorithm'], '-> 2017', ['approximation algorithm'], '-> 2018', ['approximation algorithm']]
 
  K = 10
-['2013', ['algorithm', 'hybrid optimization', 'qlearning', 'throughput'], '-> 2014', ['algorithm'], '-> 2015', ['algorithm'], '-> 2016', ['algorithm'], '-> 2017', ['algorithm'], '-> 2018', ['algorithm']]
+['2013', ['sampling  surgical action'], '-> 2014', ['benchmark computing', 'experiment', 'mathematical optimization', 'sampling  surgical action'], '-> 2015', ['benchmark computing', 'experiment', 'mathematical optimization', 'sampling  surgical action'], '-> 2016', ['benchmark computing', 'experiment', 'mathematical optimization', 'sampling  surgical action'], '-> 2017', ['benchmark computing', 'experiment', 'mathematical optimization', 'sampling  surgical action'], '-> 2018', ['benchmark computing', 'experiment', 'mathematical optimization', 'sampling  surgical action']]
+Union of the topics of the chain into the Macro topic: {'sampling  surgical action', 'experiment', 'benchmark computing', 'mathematical optimization'}
+
+ K = 10
+['2013', ['algorithm', 'artificial neural network', 'experiment', 'mathematical optimization', 'particle swarm optimization', 'sampling  surgical action', 'sampling signal processing'], '-> 2014', ['benchmark computing', 'experiment', 'mathematical optimization', 'sampling  surgical action'], '-> 2015', ['benchmark computing', 'experiment', 'mathematical optimization', 'sampling  surgical action'], '-> 2016', ['benchmark computing', 'experiment', 'mathematical optimization', 'sampling  surgical action'], '-> 2017', ['benchmark computing', 'experiment', 'mathematical optimization', 'sampling  surgical action'], '-> 2018', ['benchmark computing', 'experiment', 'mathematical optimization', 'sampling  surgical action']]
+Union of the topics of the chain into the Macro topic: {'particle swarm optimization', 'experiment', 'sampling signal processing', 'benchmark computing', 'sampling  surgical action', 'artificial neural network', 'mathematical optimization', 'algorithm'}
 
  K = 20
-['2013', ['approximation algorithm'], '-> 2014', ['approximation algorithm'], '-> 2015', ['approximation algorithm'], '-> 2016', ['approximation algorithm'], '-> 2017', ['approximation algorithm'], '-> 2018', ['approximation algorithm']]
+['2013', ['lyapunov fractal'], '-> 2014', ['bellman equation', 'lyapunov fractal', 'nonlinear system', 'simulation'], '-> 2015', ['bellman equation', 'lyapunov fractal', 'nonlinear system', 'simulation'], '-> 2016', ['bellman equation', 'lyapunov fractal', 'nonlinear system', 'simulation'], '-> 2017', ['bellman equation', 'lyapunov fractal', 'nonlinear system', 'simulation'], '-> 2018', ['bellman equation', 'lyapunov fractal', 'nonlinear system', 'simulation']]
+Union of the topics of the chain into the Macro topic: {'bellman equation', 'lyapunov fractal', 'simulation', 'nonlinear system'}
 
  K = 100
 ['2013', ['linear matrix inequality'], '-> 2014', ['linear matrix inequality'], '-> 2015', ['linear matrix inequality'], '-> 2016', ['linear matrix inequality'], '-> 2017', ['linear matrix inequality'], '-> 2018', ['linear matrix inequality']]
 
  K = 100
-['2013', ['interference communication', 'selforganization'], '-> 2014', ['interference communication'], '-> 2015', ['interference communication'], '-> 2016', ['interference communication'], '-> 2017', ['interference communication'], '-> 2018', ['interference communication']]
+['2013', ['rate of convergence'], '-> 2014', ['evolutionary algorithm', 'rate of convergence'], '-> 2015', ['evolutionary algorithm', 'rate of convergence'], '-> 2016', ['evolutionary algorithm', 'rate of convergence'], '-> 2017', ['evolutionary algorithm', 'rate of convergence'], '-> 2018', ['evolutionary algorithm', 'rate of convergence']]
+Union of the topics of the chain into the Macro topic: {'evolutionary algorithm', 'rate of convergence'}
 
  K = 100
-['2013', ['coefficient'], '-> 2014', ['coefficient'], '-> 2015', ['coefficient'], '-> 2016', ['coefficient'], '-> 2017', ['coefficient'], '-> 2018', ['coefficient']]
+['2013', ['approximation algorithm', 'bspline', 'coefficient'], '-> 2014', ['coefficient'], '-> 2015', ['coefficient'], '-> 2016', ['coefficient'], '-> 2017', ['coefficient'], '-> 2018', ['coefficient']]
 
  ---------- YEAR 2014 ---------- 
 
  K = 10
-['2014', ['bil herd', 'mathematical optimization', 'neural network simulation', 'numerical analysis', 'social inequality'], '-> 2015', ['lyapunov fractal', 'neural network simulation', 'social inequality'], '-> 2016', ['lyapunov fractal', 'neural network simulation', 'social inequality'], '-> 2017', ['lyapunov fractal', 'neural network simulation', 'social inequality'], '-> 2018', ['lyapunov fractal', 'neural network simulation', 'social inequality']]
-Union of the topics of the chain into the Macro topic: {'lyapunov fractal', 'neural network simulation', 'social inequality', 'bil herd', 'numerical analysis', 'mathematical optimization'}
+['2014', ['approximation algorithm'], '-> 2015', ['approximation algorithm', 'simulation'], '-> 2016', ['approximation algorithm', 'simulation'], '-> 2017', ['approximation algorithm', 'simulation'], '-> 2018', ['approximation algorithm', 'simulation']]
+Union of the topics of the chain into the Macro topic: {'approximation algorithm', 'simulation'}
 
  K = 20
-['2014', ['http public key pinning', 'lyapunov fractal', 'rate of convergence', 'simulation'], '-> 2015', ['simulation'], '-> 2016', ['simulation'], '-> 2017', ['simulation'], '-> 2018', ['simulation']]
+['2014', ['mathematical optimization', 'metaheuristic'], '-> 2015', ['mathematical optimization'], '-> 2016', ['mathematical optimization'], '-> 2017', ['mathematical optimization'], '-> 2018', ['mathematical optimization']]
+
+ K = 20
+['2014', ['algorithm', 'mathematical optimization', 'simulation'], '-> 2015', ['mathematical optimization'], '-> 2016', ['mathematical optimization'], '-> 2017', ['mathematical optimization'], '-> 2018', ['mathematical optimization']]
+
+ K = 20
+['2014', ['dynamic programming'], '-> 2015', ['dynamic programming', 'optimal control'], '-> 2016', ['dynamic programming', 'optimal control'], '-> 2017', ['dynamic programming', 'optimal control'], '-> 2018', ['dynamic programming', 'optimal control']]
+Union of the topics of the chain into the Macro topic: {'optimal control', 'dynamic programming'}
 
  K = 100
-['2014', ['dynamic programming'], '-> 2015', ['dynamic programming'], '-> 2016', ['dynamic programming'], '-> 2017', ['dynamic programming'], '-> 2018', ['dynamic programming']]
+['2014', ['computer performance', 'dynamic programming', 'iteration'], '-> 2015', ['dynamic programming'], '-> 2016', ['dynamic programming'], '-> 2017', ['dynamic programming'], '-> 2018', ['dynamic programming']]
 
  K = 100
-['2014', ['simulation'], '-> 2015', ['nonlinear systems', 'simulation'], '-> 2016', ['nonlinear systems', 'simulation'], '-> 2017', ['nonlinear systems', 'simulation'], '-> 2018', ['nonlinear systems', 'simulation']]
-Union of the topics of the chain into the Macro topic: {'simulation', 'nonlinear systems'}
+['2014', ['experiment'], '-> 2015', ['experiment'], '-> 2016', ['experiment'], '-> 2017', ['experiment'], '-> 2018', ['experiment']]
 
  K = 100
-['2014', ['language model', 'recurrent neural network'], '-> 2015', ['recurrent neural network'], '-> 2016', ['recurrent neural network'], '-> 2017', ['recurrent neural network'], '-> 2018', ['recurrent neural network']]
+['2014', ['bellman equation', 'neural networks'], '-> 2015', ['neural networks'], '-> 2016', ['neural networks'], '-> 2017', ['neural networks'], '-> 2018', ['neural networks']]
 
  K = 100
-['2014', ['optimization problem'], '-> 2015', ['optimization problem'], '-> 2016', ['optimization problem'], '-> 2017', ['optimization problem'], '-> 2018', ['optimization problem']]
+['2014', ['recurrent neural network'], '-> 2015', ['recurrent neural network'], '-> 2016', ['recurrent neural network'], '-> 2017', ['recurrent neural network'], '-> 2018', ['recurrent neural network']]
+
+ K = 100
+['2014', ['particle swarm optimization'], '-> 2015', ['particle swarm optimization'], '-> 2016', ['particle swarm optimization'], '-> 2017', ['particle swarm optimization'], '-> 2018', ['particle swarm optimization']]
 
  K = 100
 ['2014', ['benchmark computing'], '-> 2015', ['benchmark computing'], '-> 2016', ['benchmark computing'], '-> 2017', ['benchmark computing'], '-> 2018', ['benchmark computing']]
@@ -466,158 +475,202 @@ Union of the topics of the chain into the Macro topic: {'simulation', 'nonlinear
 ['2014', ['image segmentation'], '-> 2015', ['image segmentation'], '-> 2016', ['image segmentation'], '-> 2017', ['image segmentation'], '-> 2018', ['image segmentation']]
 
  K = 100
-['2014', ['mathematical optimization', 'metaheuristic', 'particle swarm optimization', 'sampling  surgical action'], '-> 2015', ['particle swarm optimization'], '-> 2016', ['particle swarm optimization'], '-> 2017', ['particle swarm optimization'], '-> 2018', ['particle swarm optimization']]
+['2014', ['mathematical optimization', 'optimization problem', 'particle swarm optimization', 'uncertainty'], '-> 2015', ['particle swarm optimization'], '-> 2016', ['particle swarm optimization'], '-> 2017', ['particle swarm optimization'], '-> 2018', ['particle swarm optimization']]
+
+ K = 100
+['2014', ['approximation algorithm', 'dynamic programming', 'hamilton–jacobi–bellman equation'], '-> 2015', ['dynamic programming'], '-> 2016', ['dynamic programming'], '-> 2017', ['dynamic programming'], '-> 2018', ['dynamic programming']]
 
  ---------- YEAR 2015 ---------- 
 
- K = 20
-['2015', ['correctness computer science', 'numerical analysis'], '-> 2016', ['finitetime synchronization', 'numerical analysis'], '-> 2017', ['finitetime synchronization', 'numerical analysis'], '-> 2018', ['finitetime synchronization', 'numerical analysis']]
-Union of the topics of the chain into the Macro topic: {'correctness computer science', 'finitetime synchronization', 'numerical analysis'}
+ K = 5
+['2015', ['mathematical optimization', 'optimization problem', 'reinforcement learning'], '-> 2016', ['mathematical optimization'], '-> 2017', ['mathematical optimization'], '-> 2018', ['mathematical optimization']]
+
+ K = 10
+['2015', ['adaptive systems', 'approximation algorithm', 'dynamic programming', 'formal system', 'hamilton–jacobi–bellman equation', 'nonlinear system', 'optimal control', 'simulation', 'tom erez'], '-> 2016', ['fuzzy control system', 'hamilton–jacobi–bellman equation', 'optimal control', 'simulation'], '-> 2017', ['fuzzy control system', 'hamilton–jacobi–bellman equation', 'optimal control', 'simulation'], '-> 2018', ['fuzzy control system', 'hamilton–jacobi–bellman equation', 'optimal control', 'simulation']]
+Union of the topics of the chain into the Macro topic: {'formal system', 'nonlinear system', 'hamilton–jacobi–bellman equation', 'tom erez', 'fuzzy control system', 'dynamic programming', 'optimal control', 'simulation', 'approximation algorithm', 'adaptive systems'}
 
  K = 20
-['2015', ['algorithm', 'approximation algorithm', 'artificial neural network', 'block cipher mode of operation', 'control system', 'doina precup', 'dynamic programming', 'emanuel todorov', 'feedback', 'hamilton–jacobi–bellman equation', 'honglak lee', 'interaction', 'iteration', 'linear matrix inequality', 'lyapunov fractal', 'mathematical optimization', 'neural network simulation', 'nonlinear system', 'nonlinear systems', 'novelty detection', 'numerical analysis', 'observers', 'optimal control', 'optimization problem', 'recurrent neural network', 'robot', 'satinder p. singh', 'sergey levine', 'simulation', 'synchronization computer science', 'theory', 'throughput', 'tom erez', 'trust region', 'yuval tassa'], '-> 2016', ['algorithm', 'approximation algorithm', 'artificial neural network', 'control theory', 'coupling constant', 'dynamic programming', 'experiment', 'feedback', 'generalization psychology', 'hamilton–jacobi–bellman equation', 'identifier', 'linear matrix inequality', 'lyapunov fractal', 'machine learning', 'memristor', 'neural network simulation', 'nonlinear system', 'numerical analysis', 'numerical linear algebra', 'optimal control', 'quantization signal processing', 'recurrent neural network', 'robot', 'rémi munos', 'simulation', 'will dabney'], '-> 2017', ['algorithm', 'approximation algorithm', 'artificial neural network', 'control theory', 'coupling constant', 'dynamic programming', 'experiment', 'feedback', 'generalization psychology', 'hamilton–jacobi–bellman equation', 'identifier', 'linear matrix inequality', 'lyapunov fractal', 'machine learning', 'memristor', 'neural network simulation', 'nonlinear system', 'numerical analysis', 'numerical linear algebra', 'optimal control', 'quantization signal processing', 'recurrent neural network', 'robot', 'rémi munos', 'simulation', 'will dabney'], '-> 2018', ['algorithm', 'approximation algorithm', 'artificial neural network', 'control theory', 'coupling constant', 'dynamic programming', 'experiment', 'feedback', 'generalization psychology', 'hamilton–jacobi–bellman equation', 'identifier', 'linear matrix inequality', 'lyapunov fractal', 'machine learning', 'memristor', 'neural network simulation', 'nonlinear system', 'numerical analysis', 'numerical linear algebra', 'optimal control', 'quantization signal processing', 'recurrent neural network', 'robot', 'rémi munos', 'simulation', 'will dabney']]
-Union of the topics of the chain into the Macro topic: {'sergey levine', 'optimization problem', 'theory', 'machine learning', 'generalization psychology', 'algorithm', 'numerical analysis', 'control theory', 'observers', 'trust region', 'lyapunov fractal', 'iteration', 'rémi munos', 'artificial neural network', 'nonlinear system', 'experiment', 'honglak lee', 'nonlinear systems', 'block cipher mode of operation', 'dynamic programming', 'identifier', 'control system', 'synchronization computer science', 'coupling constant', 'satinder p. singh', 'throughput', 'feedback', 'simulation', 'interaction', 'neural network simulation', 'doina precup', 'tom erez', 'numerical linear algebra', 'yuval tassa', 'approximation algorithm', 'robot', 'memristor', 'recurrent neural network', 'linear matrix inequality', 'quantization signal processing', 'emanuel todorov', 'novelty detection', 'optimal control', 'will dabney', 'hamilton–jacobi–bellman equation', 'mathematical optimization'}
+['2015', ['mathematical optimization'], '-> 2016', ['interference communication', 'mathematical optimization'], '-> 2017', ['interference communication', 'mathematical optimization'], '-> 2018', ['interference communication', 'mathematical optimization']]
+Union of the topics of the chain into the Macro topic: {'interference communication', 'mathematical optimization'}
 
  K = 20
-['2015', ['algorithm', 'approximation algorithm', 'artificial neural network', 'block cipher mode of operation', 'control system', 'doina precup', 'dynamic programming', 'emanuel todorov', 'feedback', 'feedforward neural network', 'hamilton–jacobi–bellman equation', 'honglak lee', 'interaction', 'iteration', 'linear matrix inequality', 'linear matrix inequality lmi', 'lyapunov fractal', 'mathematical optimization', 'memristorbased neural networks', 'neural network simulation', 'nonlinear system', 'novelty detection', 'numerical analysis', 'observers', 'optimal control', 'recurrent neural network', 'robot', 'satinder p. singh', 'sergey levine', 'simulation', 'synchronization computer science', 'theory', 'tom erez', 'yuval tassa'], '-> 2016', ['algorithm', 'approximation algorithm', 'artificial neural network', 'control theory', 'coupling constant', 'dynamic programming', 'experiment', 'feedback', 'generalization psychology', 'hamilton–jacobi–bellman equation', 'identifier', 'linear matrix inequality', 'lyapunov fractal', 'machine learning', 'memristor', 'neural network simulation', 'nonlinear system', 'numerical analysis', 'numerical linear algebra', 'optimal control', 'quantization signal processing', 'recurrent neural network', 'robot', 'rémi munos', 'simulation', 'will dabney'], '-> 2017', ['algorithm', 'approximation algorithm', 'artificial neural network', 'control theory', 'coupling constant', 'dynamic programming', 'experiment', 'feedback', 'generalization psychology', 'hamilton–jacobi–bellman equation', 'identifier', 'linear matrix inequality', 'lyapunov fractal', 'machine learning', 'memristor', 'neural network simulation', 'nonlinear system', 'numerical analysis', 'numerical linear algebra', 'optimal control', 'quantization signal processing', 'recurrent neural network', 'robot', 'rémi munos', 'simulation', 'will dabney'], '-> 2018', ['algorithm', 'approximation algorithm', 'artificial neural network', 'control theory', 'coupling constant', 'dynamic programming', 'experiment', 'feedback', 'generalization psychology', 'hamilton–jacobi–bellman equation', 'identifier', 'linear matrix inequality', 'lyapunov fractal', 'machine learning', 'memristor', 'neural network simulation', 'nonlinear system', 'numerical analysis', 'numerical linear algebra', 'optimal control', 'quantization signal processing', 'recurrent neural network', 'robot', 'rémi munos', 'simulation', 'will dabney']]
-Union of the topics of the chain into the Macro topic: {'sergey levine', 'theory', 'machine learning', 'generalization psychology', 'algorithm', 'feedforward neural network', 'numerical analysis', 'control theory', 'observers', 'lyapunov fractal', 'iteration', 'rémi munos', 'artificial neural network', 'nonlinear system', 'experiment', 'honglak lee', 'block cipher mode of operation', 'dynamic programming', 'linear matrix inequality lmi', 'identifier', 'control system', 'synchronization computer science', 'coupling constant', 'satinder p. singh', 'feedback', 'simulation', 'interaction', 'neural network simulation', 'doina precup', 'tom erez', 'numerical linear algebra', 'yuval tassa', 'memristorbased neural networks', 'approximation algorithm', 'robot', 'memristor', 'recurrent neural network', 'linear matrix inequality', 'quantization signal processing', 'emanuel todorov', 'novelty detection', 'optimal control', 'will dabney', 'hamilton–jacobi–bellman equation', 'mathematical optimization'}
+['2015', ['approximation algorithm', 'simulation'], '-> 2016', ['approximation algorithm'], '-> 2017', ['approximation algorithm'], '-> 2018', ['approximation algorithm']]
+
+ K = 20
+['2015', ['dynamic programming', 'optimal control'], '-> 2016', ['optimal control'], '-> 2017', ['optimal control'], '-> 2018', ['optimal control']]
 
  K = 100
-['2015', ['nonlinear systems', 'simulation'], '-> 2016', ['simulation'], '-> 2017', ['simulation'], '-> 2018', ['simulation']]
+['2015', ['numerical analysis'], '-> 2016', ['coupling constant', 'finitetime synchronization', 'http public key pinning', 'numerical analysis'], '-> 2017', ['coupling constant', 'finitetime synchronization', 'http public key pinning', 'numerical analysis'], '-> 2018', ['coupling constant', 'finitetime synchronization', 'http public key pinning', 'numerical analysis']]
+Union of the topics of the chain into the Macro topic: {'finitetime synchronization', 'numerical analysis', 'coupling constant', 'http public key pinning'}
 
  K = 100
-['2015', ['approximation algorithm'], '-> 2016', ['approximation algorithm'], '-> 2017', ['approximation algorithm'], '-> 2018', ['approximation algorithm']]
+['2015', ['simulation'], '-> 2016', ['simulation'], '-> 2017', ['simulation'], '-> 2018', ['simulation']]
 
  K = 100
-['2015', ['neural networks'], '-> 2016', ['neural networks'], '-> 2017', ['neural networks'], '-> 2018', ['neural networks']]
+['2015', ['neural network simulation'], '-> 2016', ['memristor', 'neural network simulation'], '-> 2017', ['memristor', 'neural network simulation'], '-> 2018', ['memristor', 'neural network simulation']]
+Union of the topics of the chain into the Macro topic: {'memristor', 'neural network simulation'}
+
+ K = 100
+['2015', ['experiment'], '-> 2016', ['experiment'], '-> 2017', ['experiment'], '-> 2018', ['experiment']]
 
  K = 100
 ['2015', ['iteration'], '-> 2016', ['iteration'], '-> 2017', ['iteration'], '-> 2018', ['iteration']]
 
  K = 100
+['2015', ['big data'], '-> 2016', ['big data'], '-> 2017', ['big data'], '-> 2018', ['big data']]
+
+ K = 100
+['2015', ['mapreduce'], '-> 2016', ['mapreduce'], '-> 2017', ['mapreduce'], '-> 2018', ['mapreduce']]
+
+ K = 100
 ['2015', ['benchmark computing'], '-> 2016', ['benchmark computing'], '-> 2017', ['benchmark computing'], '-> 2018', ['benchmark computing']]
 
  K = 100
-['2015', ['hadoop', 'requirement'], '-> 2016', ['requirement'], '-> 2017', ['requirement'], '-> 2018', ['requirement']]
+['2015', ['convolutional neural network'], '-> 2016', ['convolutional neural network'], '-> 2017', ['convolutional neural network'], '-> 2018', ['convolutional neural network']]
 
  K = 100
 ['2015', ['dynamic programming'], '-> 2016', ['dynamic programming'], '-> 2017', ['dynamic programming'], '-> 2018', ['dynamic programming']]
 
  K = 100
-['2015', ['machine learning'], '-> 2016', ['machine learning'], '-> 2017', ['machine learning'], '-> 2018', ['machine learning']]
-
- K = 100
-['2015', ['social inequality'], '-> 2016', ['social inequality'], '-> 2017', ['social inequality'], '-> 2018', ['social inequality']]
-
- K = 100
 ['2015', ['training'], '-> 2016', ['training'], '-> 2017', ['training'], '-> 2018', ['training']]
-
- K = 100
-['2015', ['big data', 'hadoop', 'mapreduce'], '-> 2016', ['mapreduce'], '-> 2017', ['mapreduce'], '-> 2018', ['mapreduce']]
 
  ---------- YEAR 2016 ---------- 
 
  K = 5
-['2016', ['mathematical optimization'], '-> 2017', ['dual', 'mathematical optimization'], '-> 2018', ['dual', 'mathematical optimization']]
-Union of the topics of the chain into the Macro topic: {'dual', 'mathematical optimization'}
-
- K = 5
-['2016', ['lyapunov fractal'], '-> 2017', ['inverted pendulum', 'lyapunov fractal', 'simulation', 'time complexity'], '-> 2018', ['inverted pendulum', 'lyapunov fractal', 'simulation', 'time complexity']]
-Union of the topics of the chain into the Macro topic: {'inverted pendulum', 'time complexity', 'simulation', 'lyapunov fractal'}
+['2016', ['mathematical optimization'], '-> 2017', ['mathematical optimization'], '-> 2018', ['mathematical optimization']]
 
  K = 10
-['2016', ['numerical analysis'], '-> 2017', ['numerical analysis'], '-> 2018', ['numerical analysis']]
+['2016', ['mathematical optimization'], '-> 2017', ['mathematical optimization'], '-> 2018', ['mathematical optimization']]
+
+ K = 10
+['2016', ['feedback', 'lyapunov fractal', 'nonlinear system', 'social inequality'], '-> 2017', ['nonlinear system'], '-> 2018', ['nonlinear system']]
+
+ K = 10
+['2016', ['http public key pinning', 'lyapunov fractal'], '-> 2017', ['lyapunov fractal'], '-> 2018', ['lyapunov fractal']]
+
+ K = 20
+['2016', ['interference communication', 'mathematical optimization'], '-> 2017', ['algorithm', 'computation', 'interference communication', 'mathematical optimization', 'nonlinear system', 'simulation'], '-> 2018', ['algorithm', 'computation', 'interference communication', 'mathematical optimization', 'nonlinear system', 'simulation']]
+Union of the topics of the chain into the Macro topic: {'computation', 'nonlinear system', 'interference communication', 'mathematical optimization', 'simulation', 'algorithm'}
 
  K = 20
 ['2016', ['machine learning'], '-> 2017', ['machine learning'], '-> 2018', ['machine learning']]
 
  K = 20
-['2016', ['neural network simulation'], '-> 2017', ['neural network simulation'], '-> 2018', ['neural network simulation']]
+['2016', ['numerical analysis'], '-> 2017', ['numerical analysis'], '-> 2018', ['numerical analysis']]
 
  K = 20
 ['2016', ['social inequality'], '-> 2017', ['social inequality'], '-> 2018', ['social inequality']]
 
  K = 20
-['2016', ['approximation error', 'experiment'], '-> 2017', ['experiment'], '-> 2018', ['experiment']]
+['2016', ['deep learning'], '-> 2017', ['algorithm', 'deep learning'], '-> 2018', ['algorithm', 'deep learning']]
+Union of the topics of the chain into the Macro topic: {'deep learning', 'algorithm'}
+
+ K = 20
+['2016', ['experiment'], '-> 2017', ['experiment'], '-> 2018', ['experiment']]
 
  K = 100
-['2016', ['nonlinear system'], '-> 2017', ['nonlinear system'], '-> 2018', ['nonlinear system']]
+['2016', ['code', 'mathematical optimization'], '-> 2017', ['mathematical optimization'], '-> 2018', ['mathematical optimization']]
 
  K = 100
-['2016', ['lyapunov fractal'], '-> 2017', ['lyapunov fractal', 'neural network simulation', 'social inequality'], '-> 2018', ['lyapunov fractal', 'neural network simulation', 'social inequality']]
-Union of the topics of the chain into the Macro topic: {'social inequality', 'lyapunov fractal', 'neural network simulation'}
+['2016', ['simulation'], '-> 2017', ['simulation'], '-> 2018', ['simulation']]
 
  K = 100
-['2016', ['machine learning'], '-> 2017', ['algorithm', 'anatomy regional', 'cognitive radio', 'machine learning'], '-> 2018', ['algorithm', 'anatomy regional', 'cognitive radio', 'machine learning']]
-Union of the topics of the chain into the Macro topic: {'cognitive radio', 'machine learning', 'anatomy regional', 'algorithm'}
-
- K = 100
-['2016', ['social inequality'], '-> 2017', ['lyapunov fractal', 'neural network simulation', 'social inequality'], '-> 2018', ['lyapunov fractal', 'neural network simulation', 'social inequality']]
-Union of the topics of the chain into the Macro topic: {'social inequality', 'lyapunov fractal', 'neural network simulation'}
-
- K = 100
-['2016', ['deep learning'], '-> 2017', ['deep learning'], '-> 2018', ['deep learning']]
+['2016', ['social inequality'], '-> 2017', ['lyapunov fractal', 'numerical analysis', 'social inequality'], '-> 2018', ['lyapunov fractal', 'numerical analysis', 'social inequality']]
+Union of the topics of the chain into the Macro topic: {'social inequality', 'lyapunov fractal', 'numerical analysis'}
 
  K = 100
 ['2016', ['approximation algorithm'], '-> 2017', ['approximation algorithm'], '-> 2018', ['approximation algorithm']]
 
  K = 100
-['2016', ['experiment'], '-> 2017', ['experiment', 'mathematical optimization', 'particle swarm optimization'], '-> 2018', ['experiment', 'mathematical optimization', 'particle swarm optimization']]
-Union of the topics of the chain into the Macro topic: {'experiment', 'particle swarm optimization', 'mathematical optimization'}
+['2016', ['experiment'], '-> 2017', ['binary code', 'experiment'], '-> 2018', ['binary code', 'experiment']]
+Union of the topics of the chain into the Macro topic: {'experiment', 'binary code'}
 
  K = 100
-['2016', ['computation'], '-> 2017', ['computation'], '-> 2018', ['computation']]
+['2016', ['benchmark computing'], '-> 2017', ['benchmark computing'], '-> 2018', ['benchmark computing']]
 
  K = 100
-['2016', ['benchmark computing'], '-> 2017', ['benchmark computing', 'binary code'], '-> 2018', ['benchmark computing', 'binary code']]
-Union of the topics of the chain into the Macro topic: {'benchmark computing', 'binary code'}
+['2016', ['control theory'], '-> 2017', ['control theory'], '-> 2018', ['control theory']]
+
+ K = 100
+['2016', ['approximation algorithm', 'coupling constant', 'lyapunov fractal', 'neural networks', 'numerical analysis'], '-> 2017', ['lyapunov fractal', 'numerical analysis', 'social inequality'], '-> 2018', ['lyapunov fractal', 'numerical analysis', 'social inequality']]
+Union of the topics of the chain into the Macro topic: {'neural networks', 'numerical analysis', 'coupling constant', 'social inequality', 'approximation algorithm', 'lyapunov fractal'}
+
+ K = 100
+['2016', ['convolutional neural network'], '-> 2017', ['convolutional neural network'], '-> 2018', ['convolutional neural network']]
+
+ K = 100
+['2016', ['experimental results'], '-> 2017', ['experimental results'], '-> 2018', ['experimental results']]
 
  K = 100
 ['2016', ['adversarial examples'], '-> 2017', ['adversarial examples'], '-> 2018', ['adversarial examples']]
 
  K = 100
-['2016', ['bellman equation', 'control theory', 'markov decision process'], '-> 2017', ['control theory'], '-> 2018', ['control theory']]
+['2016', ['converge', 'lyapunov fractal', 'nonlinear system', 'simulation'], '-> 2017', ['nonlinear system'], '-> 2018', ['nonlinear system']]
 
  K = 100
-['2016', ['decision makers', 'experimental results'], '-> 2017', ['experimental results'], '-> 2018', ['experimental results']]
+['2016', ['adversary cryptography', 'deep learning'], '-> 2017', ['deep learning'], '-> 2018', ['deep learning']]
 
  K = 100
-['2016', ['algorithm', 'approximation algorithm', 'artificial neural network', 'biological neural networks', 'code', 'computer science', 'control theory', 'converge', 'convolutional neural network', 'coupling constant', 'data mining', 'deep learning', 'dropout neural networks', 'feedback', 'finitetime synchronization', 'hamilton–jacobi–bellman equation', 'http public key pinning', 'language model', 'learning disorders', 'linear matrix inequality', 'lyapunov fractal', 'mark rowland', 'mathematical optimization', 'medical imaging', 'memristor', 'neural network simulation', 'nonlinear system', 'numerical analysis', 'optimal control', 'realtime clock', 'recurrent neural network', 'reinforcement learning', 'robot', 'rémi munos', 'settling time', 'simulation', 'social inequality', 'will dabney'], '-> 2017', ['algorithm', 'approximation algorithm', 'artificial neural network', 'computer vision', 'deep learning', 'dynamical system', 'linear matrix inequality', 'lyapunov fractal', 'mathematical optimization', 'neural network simulation', 'numerical analysis', 'recurrent neural network', 'simulation', 'social inequality'], '-> 2018', ['algorithm', 'approximation algorithm', 'artificial neural network', 'computer vision', 'deep learning', 'dynamical system', 'linear matrix inequality', 'lyapunov fractal', 'mathematical optimization', 'neural network simulation', 'numerical analysis', 'recurrent neural network', 'simulation', 'social inequality']]
-Union of the topics of the chain into the Macro topic: {'convolutional neural network', 'will dabney', 'biological neural networks', 'algorithm', 'computer vision', 'numerical analysis', 'computer science', 'control theory', 'dropout neural networks', 'medical imaging', 'lyapunov fractal', 'rémi munos', 'social inequality', 'artificial neural network', 'nonlinear system', 'deep learning', 'learning disorders', 'coupling constant', 'language model', 'reinforcement learning', 'dynamical system', 'http public key pinning', 'code', 'feedback', 'simulation', 'neural network simulation', 'mark rowland', 'approximation algorithm', 'converge', 'robot', 'memristor', 'data mining', 'recurrent neural network', 'settling time', 'linear matrix inequality', 'finitetime synchronization', 'optimal control', 'realtime clock', 'hamilton–jacobi–bellman equation', 'mathematical optimization'}
+['2016', ['decision makers', 'experimental results', 'maps characteristics'], '-> 2017', ['experimental results'], '-> 2018', ['experimental results']]
 
  ---------- YEAR 2017 ---------- 
 
+ K = 5
+['2017', ['algorithm', 'memristor', 'simulation'], '-> 2018', ['algorithm']]
+
  K = 10
-['2017', ['simulation'], '-> 2018', ['simulation']]
+['2017', ['mathematical optimization'], '-> 2018', ['algorithm', 'differential evolution', 'interference communication', 'mathematical optimization']]
+Union of the topics of the chain into the Macro topic: {'differential evolution', 'interference communication', 'mathematical optimization', 'algorithm'}
 
  K = 10
 ['2017', ['numerical analysis'], '-> 2018', ['numerical analysis']]
 
  K = 10
-['2017', ['feedback', 'nonlinear system'], '-> 2018', ['nonlinear system']]
+['2017', ['lyapunov fractal'], '-> 2018', ['lyapunov fractal', 'nonlinear system']]
+Union of the topics of the chain into the Macro topic: {'lyapunov fractal', 'nonlinear system'}
+
+ K = 10
+['2017', ['nonlinear system'], '-> 2018', ['lyapunov fractal', 'nonlinear system']]
+Union of the topics of the chain into the Macro topic: {'lyapunov fractal', 'nonlinear system'}
 
  K = 20
-['2017', ['neural network simulation'], '-> 2018', ['neural network simulation']]
+['2017', ['algorithm', 'deep learning'], '-> 2018', ['crafted neuron network', 'deep learning']]
+Union of the topics of the chain into the Macro topic: {'deep learning', 'crafted neuron network', 'algorithm'}
 
  K = 20
-['2017', ['nonlinear system'], '-> 2018', ['approximation', 'nonlinear system']]
-Union of the topics of the chain into the Macro topic: {'nonlinear system', 'approximation'}
+['2017', ['numerical analysis'], '-> 2018', ['numerical analysis']]
+
+ K = 20
+['2017', ['social inequality'], '-> 2018', ['lyapunov fractal', 'memristor', 'social inequality']]
+Union of the topics of the chain into the Macro topic: {'social inequality', 'lyapunov fractal', 'memristor'}
 
  K = 20
 ['2017', ['machine learning'], '-> 2018', ['machine learning']]
 
  K = 20
-['2017', ['interference communication', 'throughput'], '-> 2018', ['interference communication', 'iterative method']]
-Union of the topics of the chain into the Macro topic: {'interference communication', 'iterative method', 'throughput'}
-
- K = 20
-['2017', ['algorithm', 'memristor', 'simulation'], '-> 2018', ['simulation']]
+['2017', ['algorithm', 'nonlinear system', 'simulation'], '-> 2018', ['nonlinear system']]
 
  K = 100
-['2017', ['nonlinear system'], '-> 2018', ['nonlinear system']]
+['2017', ['algorithm', 'sensor'], '-> 2018', ['algorithm', 'benchmark computing']]
+Union of the topics of the chain into the Macro topic: {'sensor', 'benchmark computing', 'algorithm'}
+
+ K = 100
+['2017', ['simulation'], '-> 2018', ['optimal control', 'simulation']]
+Union of the topics of the chain into the Macro topic: {'optimal control', 'simulation'}
+
+ K = 100
+['2017', ['nonlinear system'], '-> 2018', ['approximation algorithm', 'nonlinear system']]
+Union of the topics of the chain into the Macro topic: {'approximation algorithm', 'nonlinear system'}
 
  K = 100
 ['2017', ['particle swarm optimization'], '-> 2018', ['particle swarm optimization']]
+
+ K = 100
+['2017', ['cloud computing', 'machine learning'], '-> 2018', ['machine learning']]
+
+ K = 100
+['2017', ['benchmark computing'], '-> 2018', ['algorithm', 'benchmark computing']]
+Union of the topics of the chain into the Macro topic: {'benchmark computing', 'algorithm'}
 
  K = 100
 ['2017', ['deep learning'], '-> 2018', ['deep learning']]
@@ -629,25 +682,18 @@ Union of the topics of the chain into the Macro topic: {'interference communicat
 ['2017', ['computation'], '-> 2018', ['computation']]
 
  K = 100
+['2017', ['approximation algorithm'], '-> 2018', ['approximation algorithm', 'nonlinear system']]
+Union of the topics of the chain into the Macro topic: {'approximation algorithm', 'nonlinear system'}
+
+ K = 100
 ['2017', ['recurrent neural network'], '-> 2018', ['recurrent neural network']]
 
  K = 100
-['2017', ['artificial neural network', 'dynamical system', 'lyapunov fractal', 'neural network simulation', 'numerical analysis', 'recurrent neural network', 'social inequality'], '-> 2018', ['anatomical layer', 'artificial neural network', 'biologic preservation', 'converge', 'linear matrix inequality', 'lyapunov fractal', 'neural network simulation', 'primefactor fft algorithm', 'social inequality']]
-Union of the topics of the chain into the Macro topic: {'linear matrix inequality', 'lyapunov fractal', 'neural network simulation', 'primefactor fft algorithm', 'social inequality', 'artificial neural network', 'anatomical layer', 'converge', 'numerical analysis', 'biologic preservation', 'dynamical system', 'recurrent neural network'}
+['2017', ['neural network simulation', 'sawtooth cellular automaton', 'semiconductor industry', 'social inequality'], '-> 2018', ['social inequality']]
 
  K = 100
-['2017', ['experiment', 'mathematical optimization', 'particle swarm optimization'], '-> 2018', ['particle swarm optimization']]
+['2017', ['artificial neural network', 'experiment', 'global exponential stability', 'neural network simulation', 'numerical analysis', 'social inequality'], '-> 2018', ['92c20\xa0', 'anatomical layer', 'artificial neural network', 'converge', 'neural network simulation', 'numerical analysis']]
+Union of the topics of the chain into the Macro topic: {'neural network simulation', 'anatomical layer', 'converge', 'experiment', 'numerical analysis', 'global exponential stability', 'social inequality', 'artificial neural network', '92c20\xa0'}
 
  K = 100
-['2017', ['algorithm', 'anatomy regional', 'cognitive radio', 'machine learning'], '-> 2018', ['machine learning']]
-
- K = 100
-['2017', ['approximation algorithm', 'artificial neural network', 'deep learning', 'lyapunov fractal', 'mathematical optimization', 'neural network simulation', 'numerical analysis', 'simulation'], '-> 2018', ['algorithm', 'artificial neural network', 'benchmark computing', 'biological neural networks', 'converge', 'data compression', 'mathematical optimization', 'neural network simulation', 'numerical analysis', 'pid', 'simulation']]
-Union of the topics of the chain into the Macro topic: {'data compression', 'simulation', 'lyapunov fractal', 'neural network simulation', 'artificial neural network', 'pid', 'benchmark computing', 'algorithm', 'biological neural networks', 'approximation algorithm', 'deep learning', 'converge', 'numerical analysis', 'mathematical optimization'}
-
- K = 100
-['2017', ['lyapunov fractal', 'neural network simulation', 'social inequality'], '-> 2018', ['linear matrix inequality', 'lyapunov fractal', 'social inequality']]
-Union of the topics of the chain into the Macro topic: {'linear matrix inequality', 'social inequality', 'lyapunov fractal', 'neural network simulation'}
-
- K = 100
-['2017', ['benchmark computing', 'binary code'], '-> 2018', ['benchmark computing']]
+['2017', ['lyapunov fractal', 'numerical analysis', 'social inequality'], '-> 2018', ['social inequality']]

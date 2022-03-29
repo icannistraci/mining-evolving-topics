@@ -12,8 +12,8 @@ def topic_tracing():
     years = range(2000, 2018)
     k_vals = [5, 10, 20, 100]
 
-    path_pycharm = '../../Data/'
-    path_terminal = 'Data/'
+    path_pycharm = '../../data/'
+    path_terminal = 'data/'
 
     # load results from topic identification
     filename = path_terminal + 'output_files/identification/topics.json'

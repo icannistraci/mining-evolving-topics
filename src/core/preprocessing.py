@@ -55,8 +55,8 @@ def preprocess_data(path):
 
     # all_char_words = functions.check_special_char_by_regex(df_keywords, '[+_#$%^*?/|.-]')
 
-    # df_keywords.to_csv('Data/ds1_preprocessed.csv')
-    # df_authorship.to_csv('Data/ds2_preprocessed.csv')
+    # df_keywords.to_csv('data/ds1_preprocessed.csv')
+    # df_authorship.to_csv('data/ds2_preprocessed.csv')
 
     # print(f'- There are {len(df_keywords)} record in ds-1 and {len(df_authorship)} record in ds-2 -')
 

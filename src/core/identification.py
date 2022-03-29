@@ -13,8 +13,8 @@ def topic_identification(df_keywords, df_authorship):
     start_time = time.time()
     print(f'\n --- START Identification ---')
 
-    path_pycharm = '../../Data/'
-    path_terminal = 'Data/'
+    path_pycharm = '../../data/'
+    path_terminal = 'data/'
     years = range(2000, 2019)
     k_vals = [5, 10, 20, 100]
 
